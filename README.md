@@ -1,4 +1,4 @@
-### Datasets
+## Genaral Datasets
 
 1.  [MNIST](http://yann.lecun.com/exdb/mnist/) Handwritten digits
 2.  [Google House Numbers](http://ufldl.stanford.edu/housenumbers/) from street view
@@ -121,3 +121,29 @@
 119.  [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist) - MNIST like fashion product dataset consisting of a training set of 60,000 examples and a test set of 10,000 examples. Each example is a 28x28 grayscale image, associated with a label from 10 classes.
 120.  [Large-scale Fashion (DeepFashion) Database](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html) - Contains over 800,000 diverse fashion images. Each image in this dataset is labeled with 50 categories, 1,000 descriptive attributes, bounding box and clothing landmarks
 121.  [FakeNewsCorpus](https://github.com/several27/FakeNewsCorpus) - Contains about 10 million news articles classified using [opensources.co](http://opensources.co) types
+
+## Finance
+
+- [BIS Statistics - BIS statistics, compiled in cooperation with central](https://www.bis.org/statistics/full_data_sets.htm)
+
+- [Blockmodo Coin Registry - A registry of JSON formatted information files](https://github.com/Blockmodo/coin_registry)
+
+- [CBOE Futures Exchange](http://cfe.cboe.com/market-data/)
+
+- [Complete FAANG Stock data - This data set contains all the stock data](https://www.kaggle.com/aayushmishra1512/faang-complete-stock-data)
+
+- [Google Finance](https://www.google.com/finance)
+
+- [Google Trends](http://www.google.com/trends?q=google&ctab=0&geo=all&date=all&sort=0)
+
+- [NASDAQ](https://data.nasdaq.com/)
+
+- [OANDA](http://www.oanda.com/)
+
+- [OSU Financial data](http://fisher.osu.edu/fin/fdf/osudata.htm)
+
+- [Quandl](https://www.quandl.com/)
+
+- [St Louis Federal](https://research.stlouisfed.org/fred2/)
+
+- [Yahoo Finance](http://finance.yahoo.com/)

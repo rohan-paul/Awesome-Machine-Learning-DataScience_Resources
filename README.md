@@ -147,3 +147,17 @@
 - [St Louis Federal](https://research.stlouisfed.org/fred2/)
 
 - [Yahoo Finance](http://finance.yahoo.com/)
+
+## Super Large Kaggle Datasets
+
+- [Sketches and Strokes from the QuickDraw Game](https://www.kaggle.com/google/tinyquickdraw)
+- [GloVe Reddit Comments](https://www.kaggle.com/leighplt/glove-reddit-comments)
+- [melanoma 2019 orig](https://www.kaggle.com/christofhenkel/melanoma-2019-orig)
+- [Microsoft Malware Prediction](https://www.kaggle.com/c/microsoft-malware-prediction/data)
+- [LANL Earthquake Prediction](https://www.kaggle.com/c/LANL-Earthquake-Prediction/data)
+- [APTOS 2019 Blindness Detection](https://www.kaggle.com/c/aptos2019-blindness-detection/data)
+- [IEEE's Signal Processing Society - Camera Model Identification](https://www.kaggle.com/c/sp-society-camera-model-identification/data)
+- [OPENML - An open science datasets for machine learning](https://www.kaggle.com/mathurinache/openml)
+- [Spoken Language Identification](https://www.kaggle.com/toponowicz/spoken-language-identification)
+- [COVID19-Engineering-Books-NLP-Dataset](https://www.kaggle.com/praveengovi/covid19engineeringbooksnlpdataset)
+- [Lyft 3D Object Detection for Autonomous Vehicles](https://www.kaggle.com/c/3d-object-detection-for-autonomous-vehicles/data)

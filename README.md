@@ -1,3 +1,17 @@
+## Natural Language Processing (NLP)
+
+[Datasets](https://github.com/huggingface/datasets) is a lightweight and extensible library to easily share and access datasets and evaluation metrics for Natural Language Processing (NLP) and more.
+
+## Inspirational Stories of people breaking into Machine Learning and Data-Science
+
+- [Brian Ross - from Carpenter to Data-Engineer](https://www.linkedin.com/feed/update/urn:li:activity:6689844548513927168/?commentUrn=urn%3Ali%3Acomment%3A)
+- [Krish Naik](https://www.youtube.com/watch?v=uoifG7TgF2k&ab_channel=KrishNaik)
+- [Success Story of Saugata Paul : A career break from Infosys to Data Scientist at SPi Global](https://www.youtube.com/watch?v=0GlMfaatEuU&ab_channel=AppliedAICourse)
+- [Success Story of Ramesh Vellanki: A non-programmer to Data Scientist @ CitiBank](https://www.youtube.com/watch?v=TW1JNyQxxZo&ab_channel=AppliedAICourse)
+- [Success Story of Sriganesh: From 10+ years @ IT Services to a Data Scientist @ Amazon](https://www.youtube.com/watch?v=-kDfIealAPY&ab_channel=AppliedAICourse)
+- [How I Got 4 Data Science Offers and Doubled my Income 2 Months after being Laid Off](https://towardsdatascience.com/how-i-got-4-data-science-offers-and-doubled-my-income-2-months-after-being-laid-off-b3b6d2de6938)
+- [I got 7 job offers during the worst job market in history. Here’s the data](http://www.jefflichronicles.com/blog/2020/9/26/i-got-7-job-offers-during-the-worst-job-market-in-history-heres-the-data)
+
 ## Genaral Datasets
 
 1.  [MNIST](http://yann.lecun.com/exdb/mnist/) Handwritten digits

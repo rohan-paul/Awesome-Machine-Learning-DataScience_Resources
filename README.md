@@ -2,6 +2,10 @@
 
 [Datasets](https://github.com/huggingface/datasets) is a lightweight and extensible library to easily share and access datasets and evaluation metrics for Natural Language Processing (NLP) and more.
 
+## Statistics
+
+- [Jupyter notebooks for the book "The Elements of Statistical Learning"](https://github.com/maitbayev/the-elements-of-statistical-learning)
+
 ## Inspirational Stories of people breaking into Machine Learning and Data-Science
 
 - [Brian Ross - from Carpenter to Data-Engineer](https://www.linkedin.com/feed/update/urn:li:activity:6689844548513927168/?commentUrn=urn%3Ali%3Acomment%3A)

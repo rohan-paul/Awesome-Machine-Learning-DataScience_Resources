@@ -20,19 +20,19 @@
 
 ## ML Math
 
-- Introduction to Linear Algebra
+- [Introduction to Linear Algebra](http://www.eigenvector.com/Docs/LinAlg.pdf)
 
-- Linear Algebra - Hefferon
+- [Linear Algebra - Hefferon](http://joshua.smcvt.edu/linearalgebra/)
 
-- Deep Learning Math
+- [Deep Learning Math](https://www.deeplearningbook.org/contents/part_basics.html)
 
-- CS229 Notes on Linear Algebra
+- [CS229 Notes on Linear Algebra](http://cs229.stanford.edu/section/cs229-linalg.pdf)
 
-- AWS Math for Machine Learning
+- [AWS Math for Machine Learning](https://www.aws.training/Details/eLearning?id=26597)
 
-- Essential Math for Machine Learning - Python Edition
+- [Essential Math for Machine Learning - Python Edition](https://www.edx.org/course/essential-math-for-machine-learning-python-editi-2)
 
-- Computational Linear Algebra
+- [Computational Linear Algebra](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md)
 
 ## Inspirational Stories of people breaking into Machine Learning and Data-Science
 

@@ -18,6 +18,22 @@
 
 - [Sebastian Ruder](https://ruder.io/)
 
+## ML Math
+
+- Introduction to Linear Algebra
+
+- Linear Algebra - Hefferon
+
+- Deep Learning Math
+
+- CS229 Notes on Linear Algebra
+
+- AWS Math for Machine Learning
+
+- Essential Math for Machine Learning - Python Edition
+
+- Computational Linear Algebra
+
 ## Inspirational Stories of people breaking into Machine Learning and Data-Science
 
 - [Brian Ross - from Carpenter to Data-Engineer](https://www.linkedin.com/feed/update/urn:li:activity:6689844548513927168/?commentUrn=urn%3Ali%3Acomment%3A)

@@ -28,6 +28,13 @@
 
 [[↑] Back to top](#table-of-contents)
 
+## If you are new to Data Science
+
+| Preview                                                                                                                                                                                                                  | Description                                                                                                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [<img src="http://i.imgur.com/0OoLaa5.png" width="150" />](http://i.imgur.com/0OoLaa5.png)                                                                                                                               | [Key differences of a data scientist vs. data engineer](https://searchbusinessanalytics.techtarget.com/feature/Key-differences-of-a-data-scientist-vs-data-engineer)                            |
+| [<img src="https://cloud.githubusercontent.com/assets/182906/19517857/604f88d8-960c-11e6-97d6-16c9738cb824.png" width="150" />](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/DataScienceEightSteps_Full.png) | A visual guide to Becoming a Data Scientist in 8 Steps by [DataCamp](https://www.datacamp.com) [(img)](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/DataScienceEightSteps_Full.png) |
+
 ## Natural Language Processing (NLP)
 
 [Datasets](https://github.com/huggingface/datasets) is a lightweight and extensible library to easily share and access datasets and evaluation metrics for Natural Language Processing (NLP) and more.

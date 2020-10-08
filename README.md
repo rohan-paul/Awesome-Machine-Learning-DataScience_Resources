@@ -40,6 +40,22 @@
 
 - [Sebastian Ruder](https://ruder.io/)
 
+- [Most Viewed Machine Learning writers](https://www.quora.com/topic/Machine-Learning/writers)
+
+- [Data Science Topic on Quora](https://www.quora.com/Data-Science)
+
+- [William Chen's Answers](https://www.quora.com/William-Chen-6/answers)
+
+- [Michael Hochster's Answers](https://www.quora.com/Michael-Hochster/answers)
+
+- [Ricardo Vladimiro's Answers](https://www.quora.com/Ricardo-Vladimiro-1/answers)
+
+- [Storytelling with Statistics](https://datastories.quora.com/)
+
+- [Data Science FAQs on Quora](https://www.quora.com/topic/Data-Science/faq)
+
+- [Machine Learning FAQs on Quora](https://www.quora.com/topic/Machine-Learning/faq)
+
 [[↑] Back to top](#table-of-contents-of-this-readme-file)
 
 ## ML Math
@@ -232,7 +248,7 @@
 - [COVID19-Engineering-Books-NLP-Dataset](https://www.kaggle.com/praveengovi/covid19engineeringbooksnlpdataset)
 - [Lyft 3D Object Detection for Autonomous Vehicles](https://www.kaggle.com/c/3d-object-detection-for-autonomous-vehicles/data)
 
-##
+## TensorFlow
 
 - [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples)
 

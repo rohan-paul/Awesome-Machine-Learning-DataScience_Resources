@@ -82,6 +82,8 @@
 
 - [Blogs on Artificial Intelligence, Machine Learning, Python & Data Science](https://www.mygreatlearning.com/blog/?utm_source=Youtube)
 
+- [Applied AI for Business: Industry Newsletter for Executives Applying Machine Learning to Enterprises - TOPBOTS](https://www.topbots.com/enterprise-ai-news-pro-newsletter/)
+
 [[↑] Back to top](#table-of-contents)
 
 ## ML Math

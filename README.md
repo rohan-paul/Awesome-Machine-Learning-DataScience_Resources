@@ -72,6 +72,10 @@
 
 - [Microsoft Machine Learning Blog](https://docs.microsoft.com/en-gb/archive/blogs/machinelearning/)
 
+- [News on Artificial Intelligence and Machine Learning](https://phys.org/technology-news/machine-learning-ai/)
+
+- [Machine Learning | Latest News, Photos & Videos | WIRED](https://www.wired.com/tag/machine-learning/)
+
 [[↑] Back to top](#table-of-contents)
 
 ## ML Math

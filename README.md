@@ -387,6 +387,8 @@
 | [spleeter](https://github.com/deezer/spleeter)                                  | 12.7k | Deezer source separation library including pretrained models.                                                                                                                         |
 | [Virgilio](https://github.com/virgili0/Virgilio)                                | 12.7k | Your new Mentor for Data Science E-Learning.                                                                                                                                          |
 
+[[↑] Back to top](#table-of-contents)
+
 ## Linear Regression
 
 - [General](#general-)
@@ -422,6 +424,8 @@
 * [Elastic Net](https://en.wikipedia.org/wiki/Elastic_net_regularization) - [Regularization and Variable Selection via the
   Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 
+[[↑] Back to top](#table-of-contents)
+
 ## Logistic Regression
 
 - [Logistic Regression Wiki](https://en.wikipedia.org/wiki/Logistic_regression)
@@ -437,6 +441,8 @@
 - [Pseudo R2 for Logistic Regression](http://stats.stackexchange.com/questions/3559/which-pseudo-r2-measure-is-the-one-to-report-for-logistic-regression-cox-s), [How to calculate](http://stats.stackexchange.com/questions/8511/how-to-calculate-pseudo-r2-from-rs-logistic-regression), [Other Details](http://www.ats.ucla.edu/stat/mult_pkg/faq/general/Psuedo_RSquareds.htm)
 
 - [Guide to an in-depth understanding of logistic regression](http://www.dataschool.io/guide-to-logistic-regression/)
+
+[[↑] Back to top](#table-of-contents)
 
 ## Top Machine Learning Podcasts
 
@@ -456,3 +462,6 @@
 - [Spotify – HumAIn Podcast - Artificial Intelligence, Data Science, and Developer Education | Podcast on Spotify](https://open.spotify.com/show/6tXysq5TzHXvttWtJhmRpS)
 - [Let's Reflect · Talking Machines](https://open.spotify.com/show/0gKf364z7Vri0wbNXsHd2B)
 - [Spotify – The TWIML AI Podcast (formerly This Week in Machine Learning & Artificial Intelligence) | Podcast on Spotify](https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7)
+- [Spotify – Lex Fridman Podcast | Artificial Intelligence (AI) | Podcast on Spotify](https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL)
+- [AI Today Podcast: The 2020 State of AI – Interview with Wilson Pang, CTO at Appen · AI Today Podcast: Artificial Intelligence Insights, Experts, and Opinion](https://open.spotify.com/show/4z2M4S9e0K6yk3KB9XrO7h)
+- [Spotify – AI in Business | Podcast on Spotify](https://open.spotify.com/show/4gD9xiYU9iC24vnjUx1PTg)

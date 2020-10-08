@@ -310,6 +310,10 @@
 133.  [figshare.com](https://figshare.com/)
 134.  [GeoLite Legacy Downloadable Databases](http://dev.maxmind.com/geoip/legacy/geolite/)
 135.  [Quora's Big Datasets Answer](https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)
+136.  [Public Big Data Sets](http://hadoopilluminated.com/hadoop_illuminated/Public_Bigdata_Sets.html)
+137.  [Houston Data Portal](http://data.ohouston.org/)
+138.  [Kaggle Data Sources](https://www.kaggle.com/wiki/DataSources)
+139.  [A Deep Catalog of Human Genetic Variation](http://www.internationalgenome.org/data)
 
 [[↑] Back to top](#table-of-contents)
 

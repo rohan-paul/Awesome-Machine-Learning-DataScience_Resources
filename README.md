@@ -90,6 +90,12 @@
 
 - [The Data Science Roundup | Revue](http://roundup.fishtownanalytics.com/)
 
+- [Import AI](https://us13.campaign-archive.com/home/?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c)
+
+- [Data Elixir - News and resources for data science practitioners](https://dataelixir.com/)
+
+- [Dataconomy Home - Dataconomy](https://dataconomy.com/)
+
 [[↑] Back to top](#table-of-contents)
 
 ## ML Math

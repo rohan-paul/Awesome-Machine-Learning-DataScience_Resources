@@ -16,6 +16,8 @@
 
 8. [Super Large Kaggle Datasets](super-large-kaggle-datasets)
 
+9. [Machine Learning & Deep Learning Tutorials](machine-learning--deep-learning-tutorials)
+
 ## Natural Language Processing (NLP)
 
 [Datasets](https://github.com/huggingface/datasets) is a lightweight and extensible library to easily share and access datasets and evaluation metrics for Natural Language Processing (NLP) and more.
@@ -231,3 +233,7 @@
 ##
 
 - [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples)
+
+## Machine Learning & Deep Learning Tutorials
+
+- [Awesome Artificial Intelligence (GitHub Repo)](https://github.com/owainlewis/awesome-artificial-intelligence)

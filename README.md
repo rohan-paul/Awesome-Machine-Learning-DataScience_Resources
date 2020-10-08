@@ -1,30 +1,32 @@
 ## Table of Contents
 
-1. [Natural Language Processing](#natural-language-processing-nlp)
+1. [If you are new to Data Science](#if-you-are-new-to-data-science)
 
-2. [Statistics](#statistics)
+2. [Natural Language Processing](#natural-language-processing-nlp)
 
-3. [Blogs and other Community based resources](#blogs-and-other-community-based-resources)
+3. [Statistics](#statistics)
 
-4. [ML Math](#ml-math)
+4. [Blogs and other Community based resources](#blogs-and-other-community-based-resources)
 
-5. [Inspirational Stories of people breaking into Machine Learning and Data-Science](#inspirational-stories-of-people-breaking-into-machine-learning-and-data-science)
+5. [ML Math](#ml-math)
 
-6. [Genaral Datasets](#genaral-datasets)
+6. [Inspirational Stories of people breaking into Machine Learning and Data-Science](#inspirational-stories-of-people-breaking-into-machine-learning-and-data-science)
 
-7. [Finance related Datasets](#finance)
+7. [Genaral Datasets](#genaral-datasets)
 
-8. [Super Large Kaggle Datasets](#super-large-kaggle-datasets)
+8. [Finance related Datasets](#finance)
 
-9. [Machine Learning & Deep Learning Tutorials](#machine-learning--deep-learning-tutorials)
+9. [Super Large Kaggle Datasets](#super-large-kaggle-datasets)
 
-10. [Interview Resources](#interview-resources)
+10. [Machine Learning & Deep Learning Tutorials](#machine-learning--deep-learning-tutorials)
 
-11. [Kaggle Competitions WriteUp](#kaggle-competitions-writeUp)
+11. [Interview Resources](#interview-resources)
 
-12. [Linear Regression](#linear-regression)
+12. [Kaggle Competitions WriteUp](#kaggle-competitions-writeUp)
 
-13. [Logistic Regression](#logistic-regression)
+13. [Linear Regression](#linear-regression)
+
+14. [Logistic Regression](#logistic-regression)
 
 [[↑] Back to top](#table-of-contents)
 
@@ -43,6 +45,8 @@
 | [<img src="http://i.imgur.com/l9ZGtal.jpg" width="150" />](http://i.imgur.com/xLY3XZn.jpg)                                                                                                                               | By [Data Science Central](http://www.datasciencecentral.com/)                                                                                                                                   |
 | [<img src="http://i.imgur.com/b9xYdZB.jpg" width="150" />](http://i.imgur.com/aoz1BJy.jpg)                                                                                                                               | From [this article](http://berkeleysciencereview.com/how-to-become-a-data-scientist-before-you-graduate/) by Berkeley Science Review.                                                           |
 | [<img src="http://i.imgur.com/TWkB4X6.png" width="150" />](http://i.imgur.com/0TydZ4M.png)                                                                                                                               | Data Science Wars: R vs Python                                                                                                                                                                  |
+
+[[↑] Back to top](#table-of-contents)
 
 ## Natural Language Processing (NLP)
 

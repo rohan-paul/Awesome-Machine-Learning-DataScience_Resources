@@ -306,6 +306,7 @@
 129.  [FakeNewsCorpus](https://github.com/several27/FakeNewsCorpus) - Contains about 10 million news articles classified using [opensources.co](http://opensources.co) types
 130.  [databib.org](http://databib.org/)
 131.  [datacite.org](https://www.datacite.org)
+132.  [quandl.com](https://www.quandl.com/) - Get the data you need in the form you want; instant download, API or direct to your app.
 
 [[↑] Back to top](#table-of-contents)
 

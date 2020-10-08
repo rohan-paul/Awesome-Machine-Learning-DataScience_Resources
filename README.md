@@ -348,3 +348,21 @@
 | [Qix](https://github.com/ty4z2008/Qix)                                          | 13.3k | Machine Learning、Deep Learning、PostgreSQL、Distributed System、Node.Js、Golang                                                                                                      |
 | [spleeter](https://github.com/deezer/spleeter)                                  | 12.7k | Deezer source separation library including pretrained models.                                                                                                                         |
 | [Virgilio](https://github.com/virgili0/Virgilio)                                | 12.7k | Your new Mentor for Data Science E-Learning.                                                                                                                                          |
+
+## Linear Regression
+
+- [General](#general-)
+
+  - [Assumptions of Linear Regression](http://pareonline.net/getvn.asp?n=2&v=8), [Stack Exchange](http://stats.stackexchange.com/questions/16381/what-is-a-complete-list-of-the-usual-assumptions-for-linear-regression)
+
+  - [Linear Regression Comprehensive Resource](http://people.duke.edu/~rnau/regintro.htm)
+
+  - [Applying and Interpreting Linear Regression](http://www.dataschool.io/applying-and-interpreting-linear-regression/)
+
+  - [What does having constant variance in a linear regression model mean?](http://stats.stackexchange.com/questions/52089/what-does-having-constant-variance-in-a-linear-regression-model-mean/52107?stw=2#52107)
+
+  - [Difference between linear regression on y with x and x with y](http://stats.stackexchange.com/questions/22718/what-is-the-difference-between-linear-regression-on-y-with-x-and-x-with-y?lq=1)
+
+  - [Is linear regression valid when the dependant variable is not normally distributed?](https://www.researchgate.net/post/Is_linear_regression_valid_when_the_outcome_dependant_variable_not_normally_distributed)
+
+- Multicollinearity and VIF

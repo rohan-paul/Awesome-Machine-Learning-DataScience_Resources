@@ -84,6 +84,12 @@
 
 - [Applied AI for Business: Industry Newsletter for Executives Applying Machine Learning to Enterprises - TOPBOTS](https://www.topbots.com/enterprise-ai-news-pro-newsletter/)
 
+- [Data Science Community Newsletter – NYU Center for Data Science](https://cds.nyu.edu/newsletter/)
+
+- [The Week in Data – The ODI](https://theodi.org/knowledge-opinion/the-week-in-data/)
+
+- [The Data Science Roundup | Revue](http://roundup.fishtownanalytics.com/)
+
 [[↑] Back to top](#table-of-contents)
 
 ## ML Math

@@ -314,6 +314,14 @@
 137.  [Houston Data Portal](http://data.ohouston.org/)
 138.  [Kaggle Data Sources](https://www.kaggle.com/wiki/DataSources)
 139.  [A Deep Catalog of Human Genetic Variation](http://www.internationalgenome.org/data)
+140.  [A community-curated database of well-known people, places, and things](https://developers.google.com/freebase/)
+141.  [Google Public Data](http://www.google.com/publicdata/directory)
+142.  [World Bank Data](http://data.worldbank.org/)
+143.  [NYC Taxi data](http://chriswhong.github.io/nyctaxi/)
+144.  [Open Data Philly](https://www.opendataphilly.org/) Connecting people with data for Philadelphia
+145.  [A list of useful sources](http://ahmetkurnaz.net/en/statistical-data-sources/) A blog post includes many data set databases
+146.  [grouplens.org](https://grouplens.org/datasets/) Sample movie (with ratings), book and wiki datasets
+147.  [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/) - contains data sets good for machine learning
 
 [[↑] Back to top](#table-of-contents)
 

@@ -447,3 +447,6 @@
 - [Spotify – DataFramed | Podcast on Spotify](https://open.spotify.com/show/02yJXEJAJiQ0Vm2AO9Xj6X)
 - [Hunting for the Higgs · Linear Digressions](https://open.spotify.com/show/1JdkD0ZoZ52KjwdR0b1WoT)
 - [Spotify – Not So Standard Deviations | Podcast on Spotify](https://open.spotify.com/show/1NJ6li5ZpNVBBQfpd3D6bi)
+- [Spotify – Making Data Simple | Podcast on Spotify](https://open.spotify.com/show/6i8sGQUN5PNzyExrQJtndx)
+- [Spotify – Data Engineering Podcast | Podcast on Spotify](https://open.spotify.com/show/2iLvljRGVVIGlJshT5vNDS)
+- [Spotify – SuperDataScience | Podcast on Spotify](https://open.spotify.com/show/1n8P7ZSgfVLVJ3GegxPat1)

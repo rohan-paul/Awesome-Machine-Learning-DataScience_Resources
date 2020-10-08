@@ -40,7 +40,7 @@
 
 [[↑] Back to top](#table-of-contents)
 
-## Blogs & Social Media
+## Blogs and other Community based resources
 
 - [Towards Data Science](https://towardsdatascience.com/)
 
@@ -108,6 +108,10 @@
 - [Reddit GoogleColabNotebooks](https://www.reddit.com/r/GoogleColabNotebooks/new/)
 - [algorithmia.com/blog](https://algorithmia.com/blog)
 - [machinelearningmastery.com/blog/](https://machinelearningmastery.com/blog/)
+- [Machine Learning(Theory)](https://hunch.net/)
+- [Machine Learning Blog, ML@CMU, Carnegie Mellon University](https://blog.ml.cmu.edu/)
+- [Amazon Science Blog](https://www.amazon.science/blog)
+- [distill](https://distill.pub/)
 
 [[↑] Back to top](#table-of-contents)
 

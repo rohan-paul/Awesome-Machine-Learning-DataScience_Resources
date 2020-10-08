@@ -180,32 +180,33 @@
 3.  [CIFAR-10 and CIFAR-100](http://www.cs.toronto.edu/~kriz/cifar.html)
 4.  [Academic Torrents](http://academictorrents.com/)
 5.  [hadoopilluminated.com](http://hadoopilluminated.com/hadoop_illuminated/Public_Bigdata_Sets.html)
-6.  [IMAGENET](http://www.image-net.org/)
-7.  [Tiny Images](http://groups.csail.mit.edu/vision/TinyImages/) 80 Million tiny images6.
-8.  [Flickr Data](https://yahooresearch.tumblr.com/post/89783581601/one-hundred-million-creative-commons-flickr-images) 100 Million Yahoo dataset
-9.  [Berkeley Segmentation Dataset 500](http://www.eecs.berkeley.edu/Research/Projects/CS/vision/bsds/)
-10. [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/)
-11. [Flickr 8k](http://nlp.cs.illinois.edu/HockenmaierGroup/Framing_Image_Description/KCCA.html)
-12. [Flickr 30k](http://shannon.cs.illinois.edu/DenotationGraph/)
-13. [Microsoft COCO](http://mscoco.org/home/)
-14. [VQA](http://www.visualqa.org/)
-15. [Image QA](http://www.cs.toronto.edu/~mren/imageqa/data/cocoqa/)
-16. [AT&T Laboratories Cambridge face database](http://www.uk.research.att.com/facedatabase.html)
-17. [AVHRR Pathfinder](http://xtreme.gsfc.nasa.gov)
-18. [Air Freight](http://www.anc.ed.ac.uk/~amos/afreightdata.html) - The Air Freight data set is a ray-traced image sequence along with ground truth segmentation based on textural characteristics. (455 images + GT, each 160x120 pixels). (Formats: PNG)
-19. [Amsterdam Library of Object Images](http://www.science.uva.nl/~aloi/) - ALOI is a color image collection of one-thousand small objects, recorded for scientific purposes. In order to capture the sensory variation in object recordings, we systematically varied viewing angle, illumination angle, and illumination color for each object, and additionally captured wide-baseline stereo images. We recorded over a hundred images of each object, yielding a total of 110,250 images for the collection. (Formats: png)
-20. [Annotated face, hand, cardiac & meat images](http://www.imm.dtu.dk/~aam/) - Most images & annotations are supplemented by various ASM/AAM analyses using the AAM-API. (Formats: bmp,asf)
-21. [Image Analysis and Computer Graphics](http://www.imm.dtu.dk/image/)
-22. [Brown University Stimuli](http://www.cog.brown.edu/~tarr/stimuli.html) - A variety of datasets including geons, objects, and "greebles". Good for testing recognition algorithms. (Formats: pict)
-23. [CAVIAR video sequences of mall and public space behavior](http://homepages.inf.ed.ac.uk/rbf/CAVIARDATA1/) - 90K video frames in 90 sequences of various human activities, with XML ground truth of detection and behavior classification (Formats: MPEG2 & JPEG)
-24. [Machine Vision Unit](http://www.ipab.inf.ed.ac.uk/mvu/)
-25. [CCITT Fax standard images](http://www.cs.waikato.ac.nz/~singlis/ccitt.html) - 8 images (Formats: gif)
-26. [CMU CIL's Stereo Data with Ground Truth](cil-ster.html) - 3 sets of 11 images, including color tiff images with spectroradiometry (Formats: gif, tiff)
-27. [CMU PIE Database](http://www.ri.cmu.edu/projects/project_418.html) - A database of 41,368 face images of 68 people captured under 13 poses, 43 illuminations conditions, and with 4 different expressions.
-28. [CMU VASC Image Database](http://www.ius.cs.cmu.edu/idb/) - Images, sequences, stereo pairs (thousands of images) (Formats: Sun Rasterimage)
-29. [Caltech Image Database](http://www.vision.caltech.edu/html-files/archive.html) - about 20 images - mostly top-down views of small objects and toys. (Formats: GIF)
-30. [Columbia-Utrecht Reflectance and Texture Database](http://www.cs.columbia.edu/CAVE/curet/) - Texture and reflectance measurements for over 60 samples of 3D texture, observed with over 200 different combinations of viewing and illumination directions. (Formats: bmp)
-31. [Computational Colour Constancy Data](http://www.cs.sfu.ca/~colour/data/index.html) - A dataset oriented towards computational color constancy, but useful for computer vision in general. It includes synthetic data, camera sensor data, and over 700 images. (Formats: tiff)
+6.  [data.gov](https://catalog.data.gov/dataset) - The home of the U.S. Government's open data
+7.  [IMAGENET](http://www.image-net.org/)
+8.  [Tiny Images](http://groups.csail.mit.edu/vision/TinyImages/) 80 Million tiny images6.
+9.  [Flickr Data](https://yahooresearch.tumblr.com/post/89783581601/one-hundred-million-creative-commons-flickr-images) 100 Million Yahoo dataset
+10. [Berkeley Segmentation Dataset 500](http://www.eecs.berkeley.edu/Research/Projects/CS/vision/bsds/)
+11. [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/)
+12. [Flickr 8k](http://nlp.cs.illinois.edu/HockenmaierGroup/Framing_Image_Description/KCCA.html)
+13. [Flickr 30k](http://shannon.cs.illinois.edu/DenotationGraph/)
+14. [Microsoft COCO](http://mscoco.org/home/)
+15. [VQA](http://www.visualqa.org/)
+16. [Image QA](http://www.cs.toronto.edu/~mren/imageqa/data/cocoqa/)
+17. [AT&T Laboratories Cambridge face database](http://www.uk.research.att.com/facedatabase.html)
+18. [AVHRR Pathfinder](http://xtreme.gsfc.nasa.gov)
+19. [Air Freight](http://www.anc.ed.ac.uk/~amos/afreightdata.html) - The Air Freight data set is a ray-traced image sequence along with ground truth segmentation based on textural characteristics. (455 images + GT, each 160x120 pixels). (Formats: PNG)
+20. [Amsterdam Library of Object Images](http://www.science.uva.nl/~aloi/) - ALOI is a color image collection of one-thousand small objects, recorded for scientific purposes. In order to capture the sensory variation in object recordings, we systematically varied viewing angle, illumination angle, and illumination color for each object, and additionally captured wide-baseline stereo images. We recorded over a hundred images of each object, yielding a total of 110,250 images for the collection. (Formats: png)
+21. [Annotated face, hand, cardiac & meat images](http://www.imm.dtu.dk/~aam/) - Most images & annotations are supplemented by various ASM/AAM analyses using the AAM-API. (Formats: bmp,asf)
+22. [Image Analysis and Computer Graphics](http://www.imm.dtu.dk/image/)
+23. [Brown University Stimuli](http://www.cog.brown.edu/~tarr/stimuli.html) - A variety of datasets including geons, objects, and "greebles". Good for testing recognition algorithms. (Formats: pict)
+24. [CAVIAR video sequences of mall and public space behavior](http://homepages.inf.ed.ac.uk/rbf/CAVIARDATA1/) - 90K video frames in 90 sequences of various human activities, with XML ground truth of detection and behavior classification (Formats: MPEG2 & JPEG)
+25. [Machine Vision Unit](http://www.ipab.inf.ed.ac.uk/mvu/)
+26. [CCITT Fax standard images](http://www.cs.waikato.ac.nz/~singlis/ccitt.html) - 8 images (Formats: gif)
+27. [CMU CIL's Stereo Data with Ground Truth](cil-ster.html) - 3 sets of 11 images, including color tiff images with spectroradiometry (Formats: gif, tiff)
+28. [CMU PIE Database](http://www.ri.cmu.edu/projects/project_418.html) - A database of 41,368 face images of 68 people captured under 13 poses, 43 illuminations conditions, and with 4 different expressions.
+29. [CMU VASC Image Database](http://www.ius.cs.cmu.edu/idb/) - Images, sequences, stereo pairs (thousands of images) (Formats: Sun Rasterimage)
+30. [Caltech Image Database](http://www.vision.caltech.edu/html-files/archive.html) - about 20 images - mostly top-down views of small objects and toys. (Formats: GIF)
+31. [Columbia-Utrecht Reflectance and Texture Database](http://www.cs.columbia.edu/CAVE/curet/) - Texture and reflectance measurements for over 60 samples of 3D texture, observed with over 200 different combinations of viewing and illumination directions. (Formats: bmp)
+32. [Computational Colour Constancy Data](http://www.cs.sfu.ca/~colour/data/index.html) - A dataset oriented towards computational color constancy, but useful for computer vision in general. It includes synthetic data, camera sensor data, and over 700 images. (Formats: tiff)
 32. [Computational Vision Lab](http://www.cs.sfu.ca/~colour/)
 33. [Content-based image retrieval database](http://www.cs.washington.edu/research/imagedatabase/groundtruth/) - 11 sets of color images for testing algorithms for content-based retrieval. Most sets have a description file with names of objects in each image. (Formats: jpg)
 34. [Efficient Content-based Retrieval Group](http://www.cs.washington.edu/research/imagedatabase/)
@@ -265,39 +266,39 @@
 88. [The AR Face Database](http://www2.ece.ohio-state.edu/~aleix/ARdatabase.html) - Contains over 4,000 color images corresponding to 126 people's faces (70 men and 56 women). Frontal views with variations in facial expressions, illumination, and occlusions. (Formats: RAW (RGB 24-bit))
 89. [Purdue Robot Vision Lab](http://rvl.www.ecn.purdue.edu/RVL/)
 90. [The MIT-CSAIL Database of Objects and Scenes](http://web.mit.edu/torralba/www/database.html) - Database for testing multiclass object detection and scene recognition algorithms. Over 72,000 images with 2873 annotated frames. More than 50 annotated object classes. (Formats: jpg)
-90. [The RVL SPEC-DB (SPECularity DataBase)](http://rvl1.ecn.purdue.edu/RVL/specularity_database/) - A collection of over 300 real images of 100 objects taken under three different illuminaiton conditions (Diffuse/Ambient/Directed). -- Use these images to test algorithms for detecting and compensating specular highlights in color images. (Formats: TIFF )
-91. [Robot Vision Laboratory](http://rvl1.ecn.purdue.edu/RVL/)
-92. [The Xm2vts database](http://xm2vtsdb.ee.surrey.ac.uk) - The XM2VTSDB contains four digital recordings of 295 people taken over a period of four months. This database contains both image and video data of faces.
-93. [Centre for Vision, Speech and Signal Processing](http://www.ee.surrey.ac.uk/Research/CVSSP)
-94. [Traffic Image Sequences and 'Marbled Block' Sequence](http://i21www.ira.uka.de/image_sequences) - thousands of frames of digitized traffic image sequences as well as the 'Marbled Block' sequence (grayscale images) (Formats: GIF)
-95. [IAKS/KOGS](http://i21www.ira.uka.de)
-96. [U Bern Face images](ftp://ftp.iam.unibe.ch/pub/Images/FaceImages) - hundreds of images (Formats: Sun rasterfile)
-97. [U Michigan textures](ftp://freebie.engin.umich.edu/pub/misc/textures) (Formats: compressed raw)
-98. [U Oulu wood and knots database](http://www.ee.oulu.fi/~olli/Projects/Lumber.Grading.html) - Includes classifications - 1000+ color images (Formats: ppm)
-99. [UCID - an Uncompressed Colour Image Database](http://vision.doc.ntu.ac.uk/datasets/UCID/ucid.html) - a benchmark database for image retrieval with predefined ground truth. (Formats: tiff)
-100.  [UMass Vision Image Archive](http://vis-www.cs.umass.edu/~vislib/) - Large image database with aerial, space, stereo, medical images and more. (Formats: homebrew)
-101.  [UNC's 3D image database](ftp://sunsite.unc.edu/pub/academic/computer-science/virtual-reality/3d) - many images (Formats: GIF)
-102.  [USF Range Image Data with Segmentation Ground Truth](http://marathon.csee.usf.edu/range/seg-comp/SegComp.html) - 80 image sets (Formats: Sun rasterimage)
-103.  [University of Oulu Physics-based Face Database](http://www.ee.oulu.fi/research/imag/color/pbfd.html) - contains color images of faces under different illuminants and camera calibration conditions as well as skin spectral reflectance measurements of each person.
-104.  [Machine Vision and Media Processing Unit](http://www.ee.oulu.fi/mvmp/)
-105.  [University of Oulu Texture Database](http://www.outex.oulu.fi) - Database of 320 surface textures, each captured under three illuminants, six spatial resolutions and nine rotation angles. A set of test suites is also provided so that texture segmentation, classification, and retrieval algorithms can be tested in a standard manner. (Formats: bmp, ras, xv)
-106.  [Machine Vision Group](http://www.ee.oulu.fi/mvg)
-107.  [Usenix face database](ftp://ftp.uu.net/published/usenix/faces) - Thousands of face images from many different sites (circa 994)
-108.  [View Sphere Database](http://www-prima.inrialpes.fr/Prima/hall/view_sphere.html) - Images of 8 objects seen from many different view points. The view sphere is sampled using a geodesic with 172 images/sphere. Two sets for training and testing are available. (Formats: ppm)
-109.  [PRIMA, GRAVIR](http://www-prima.inrialpes.fr/Prima/)
-110.  [Vision-list Imagery Archive](ftp://ftp.vislist.com/IMAGERY/) - Many images, many formats
-111.  [Wiry Object Recognition Database](http://www.cs.cmu.edu/~owenc/word.htm) - Thousands of images of a cart, ladder, stool, bicycle, chairs, and cluttered scenes with ground truth labelings of edges and regions. (Formats: jpg)
-112.  [3D Vision Group](http://www.cs.cmu.edu/0.000000E+003dvision/)
-113.  [Yale Face Database](http://cvc.yale.edu/projects/yalefaces/yalefaces.html) - 165 images (15 individuals) with different lighting, expression, and occlusion configurations.
-114.  [Yale Face Database B](http://cvc.yale.edu/projects/yalefacesB/yalefacesB.html) - 5760 single light source images of 10 subjects each seen under 576 viewing conditions (9 poses x 64 illumination conditions). (Formats: PGM)
-115.  [Center for Computational Vision and Control](http://cvc.yale.edu/)
-116.  [DeepMind QA Corpus](https://github.com/deepmind/rc-data) - Textual QA corpus from CNN and DailyMail. More than 300K documents in total. [Paper](http://arxiv.org/abs/1506.03340) for reference.
-117.  [YouTube-8M Dataset](https://research.google.com/youtube8m/) - YouTube-8M is a large-scale labeled video dataset that consists of 8 million YouTube video IDs and associated labels from a diverse vocabulary of 4800 visual entities.
-118.  [Open Images dataset](https://github.com/openimages/dataset) - Open Images is a dataset of ~9 million URLs to images that have been annotated with labels spanning over 6000 categories.
-119.  [Visual Object Classes Challenge 2012 (VOC2012)](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/index.html#devkit) - VOC2012 dataset containing 12k images with 20 annotated classes for object detection and segmentation.
-120.  [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist) - MNIST like fashion product dataset consisting of a training set of 60,000 examples and a test set of 10,000 examples. Each example is a 28x28 grayscale image, associated with a label from 10 classes.
-121.  [Large-scale Fashion (DeepFashion) Database](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html) - Contains over 800,000 diverse fashion images. Each image in this dataset is labeled with 50 categories, 1,000 descriptive attributes, bounding box and clothing landmarks
-122.  [FakeNewsCorpus](https://github.com/several27/FakeNewsCorpus) - Contains about 10 million news articles classified using [opensources.co](http://opensources.co) types
+91. [The RVL SPEC-DB (SPECularity DataBase)](http://rvl1.ecn.purdue.edu/RVL/specularity_database/) - A collection of over 300 real images of 100 objects taken under three different illuminaiton conditions (Diffuse/Ambient/Directed). -- Use these images to test algorithms for detecting and compensating specular highlights in color images. (Formats: TIFF )
+92. [Robot Vision Laboratory](http://rvl1.ecn.purdue.edu/RVL/)
+93. [The Xm2vts database](http://xm2vtsdb.ee.surrey.ac.uk) - The XM2VTSDB contains four digital recordings of 295 people taken over a period of four months. This database contains both image and video data of faces.
+94. [Centre for Vision, Speech and Signal Processing](http://www.ee.surrey.ac.uk/Research/CVSSP)
+95. [Traffic Image Sequences and 'Marbled Block' Sequence](http://i21www.ira.uka.de/image_sequences) - thousands of frames of digitized traffic image sequences as well as the 'Marbled Block' sequence (grayscale images) (Formats: GIF)
+96. [IAKS/KOGS](http://i21www.ira.uka.de)
+97. [U Bern Face images](ftp://ftp.iam.unibe.ch/pub/Images/FaceImages) - hundreds of images (Formats: Sun rasterfile)
+98. [U Michigan textures](ftp://freebie.engin.umich.edu/pub/misc/textures) (Formats: compressed raw)
+99. [U Oulu wood and knots database](http://www.ee.oulu.fi/~olli/Projects/Lumber.Grading.html) - Includes classifications - 1000+ color images (Formats: ppm)
+100.  [UCID - an Uncompressed Colour Image Database](http://vision.doc.ntu.ac.uk/datasets/UCID/ucid.html) - a benchmark database for image retrieval with predefined ground truth. (Formats: tiff)
+101.  [UMass Vision Image Archive](http://vis-www.cs.umass.edu/~vislib/) - Large image database with aerial, space, stereo, medical images and more. (Formats: homebrew)
+102.  [UNC's 3D image database](ftp://sunsite.unc.edu/pub/academic/computer-science/virtual-reality/3d) - many images (Formats: GIF)
+103.  [USF Range Image Data with Segmentation Ground Truth](http://marathon.csee.usf.edu/range/seg-comp/SegComp.html) - 80 image sets (Formats: Sun rasterimage)
+104.  [University of Oulu Physics-based Face Database](http://www.ee.oulu.fi/research/imag/color/pbfd.html) - contains color images of faces under different illuminants and camera calibration conditions as well as skin spectral reflectance measurements of each person.
+105.  [Machine Vision and Media Processing Unit](http://www.ee.oulu.fi/mvmp/)
+106.  [University of Oulu Texture Database](http://www.outex.oulu.fi) - Database of 320 surface textures, each captured under three illuminants, six spatial resolutions and nine rotation angles. A set of test suites is also provided so that texture segmentation, classification, and retrieval algorithms can be tested in a standard manner. (Formats: bmp, ras, xv)
+107.  [Machine Vision Group](http://www.ee.oulu.fi/mvg)
+108.  [Usenix face database](ftp://ftp.uu.net/published/usenix/faces) - Thousands of face images from many different sites (circa 994)
+109.  [View Sphere Database](http://www-prima.inrialpes.fr/Prima/hall/view_sphere.html) - Images of 8 objects seen from many different view points. The view sphere is sampled using a geodesic with 172 images/sphere. Two sets for training and testing are available. (Formats: ppm)
+110.  [PRIMA, GRAVIR](http://www-prima.inrialpes.fr/Prima/)
+111.  [Vision-list Imagery Archive](ftp://ftp.vislist.com/IMAGERY/) - Many images, many formats
+112.  [Wiry Object Recognition Database](http://www.cs.cmu.edu/~owenc/word.htm) - Thousands of images of a cart, ladder, stool, bicycle, chairs, and cluttered scenes with ground truth labelings of edges and regions. (Formats: jpg)
+113.  [3D Vision Group](http://www.cs.cmu.edu/0.000000E+003dvision/)
+114.  [Yale Face Database](http://cvc.yale.edu/projects/yalefaces/yalefaces.html) - 165 images (15 individuals) with different lighting, expression, and occlusion configurations.
+115.  [Yale Face Database B](http://cvc.yale.edu/projects/yalefacesB/yalefacesB.html) - 5760 single light source images of 10 subjects each seen under 576 viewing conditions (9 poses x 64 illumination conditions). (Formats: PGM)
+116.  [Center for Computational Vision and Control](http://cvc.yale.edu/)
+117.  [DeepMind QA Corpus](https://github.com/deepmind/rc-data) - Textual QA corpus from CNN and DailyMail. More than 300K documents in total. [Paper](http://arxiv.org/abs/1506.03340) for reference.
+118.  [YouTube-8M Dataset](https://research.google.com/youtube8m/) - YouTube-8M is a large-scale labeled video dataset that consists of 8 million YouTube video IDs and associated labels from a diverse vocabulary of 4800 visual entities.
+119.  [Open Images dataset](https://github.com/openimages/dataset) - Open Images is a dataset of ~9 million URLs to images that have been annotated with labels spanning over 6000 categories.
+120.  [Visual Object Classes Challenge 2012 (VOC2012)](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/index.html#devkit) - VOC2012 dataset containing 12k images with 20 annotated classes for object detection and segmentation.
+121.  [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist) - MNIST like fashion product dataset consisting of a training set of 60,000 examples and a test set of 10,000 examples. Each example is a 28x28 grayscale image, associated with a label from 10 classes.
+122.  [Large-scale Fashion (DeepFashion) Database](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html) - Contains over 800,000 diverse fashion images. Each image in this dataset is labeled with 50 categories, 1,000 descriptive attributes, bounding box and clothing landmarks
+123.  [FakeNewsCorpus](https://github.com/several27/FakeNewsCorpus) - Contains about 10 million news articles classified using [opensources.co](http://opensources.co) types
 
 [[↑] Back to top](#table-of-contents)
 

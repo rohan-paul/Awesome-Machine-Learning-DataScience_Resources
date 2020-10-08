@@ -437,3 +437,8 @@
 - [Pseudo R2 for Logistic Regression](http://stats.stackexchange.com/questions/3559/which-pseudo-r2-measure-is-the-one-to-report-for-logistic-regression-cox-s), [How to calculate](http://stats.stackexchange.com/questions/8511/how-to-calculate-pseudo-r2-from-rs-logistic-regression), [Other Details](http://www.ats.ucla.edu/stat/mult_pkg/faq/general/Psuedo_RSquareds.htm)
 
 - [Guide to an in-depth understanding of logistic regression](http://www.dataschool.io/guide-to-logistic-regression/)
+
+## Top Machine Learning Podcasts
+
+- [Upskilling from Home · Data Crunch Corporation](https://open.spotify.com/show/5Kqi6CV44DNi85N4c9Lv5P)
+- [O’Reilly Data Show Podcast – O’Reilly](https://www.oreilly.com/radar/topics/oreilly-data-show-podcast/)

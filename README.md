@@ -106,6 +106,8 @@
 - [Reddit - Deep Learning](https://www.reddit.com/r/deeplearning/new/)
 - [Reddit - A Powerful Machine Intelligence Library](https://www.reddit.com/r/tensorflow/new/)
 - [Reddit GoogleColabNotebooks](https://www.reddit.com/r/GoogleColabNotebooks/new/)
+- [algorithmia.com/blog](https://algorithmia.com/blog)
+- [machinelearningmastery.com/blog/](https://machinelearningmastery.com/blog/)
 
 [[↑] Back to top](#table-of-contents)
 

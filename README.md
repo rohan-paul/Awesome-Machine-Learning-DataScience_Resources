@@ -68,6 +68,8 @@
 
 - [Machine Learning FAQs on Quora](https://www.quora.com/topic/Machine-Learning/faq)
 
+- [Great Machine Learnings Blog](https://machinelearnings.co/?gi=60f1db8659c0)
+
 [[↑] Back to top](#table-of-contents)
 
 ## ML Math

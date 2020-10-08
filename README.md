@@ -18,6 +18,8 @@
 
 9. [Machine Learning & Deep Learning Tutorials](machine-learning--deep-learning-tutorials)
 
+10. [Interview Resources](interview-resources)
+
 ## Natural Language Processing (NLP)
 
 [Datasets](https://github.com/huggingface/datasets) is a lightweight and extensible library to easily share and access datasets and evaluation metrics for Natural Language Processing (NLP) and more.
@@ -237,3 +239,17 @@
 ## Machine Learning & Deep Learning Tutorials
 
 - [Awesome Artificial Intelligence (GitHub Repo)](https://github.com/owainlewis/awesome-artificial-intelligence)
+
+## Interview Resources
+
+- [41 Essential Machine Learning Interview Questions (with answers)](https://www.springboard.com/blog/machine-learning-interview-questions/)
+
+- [How can a computer science graduate student prepare himself for data scientist interviews?](https://www.quora.com/How-can-a-computer-science-graduate-student-prepare-himself-for-data-scientist-machine-learning-intern-interviews)
+
+- [How do I learn Machine Learning?](https://www.quora.com/How-do-I-learn-machine-learning-1)
+
+- [FAQs about Data Science Interviews](https://www.quora.com/topic/Data-Science-Interviews/faq)
+
+- [What are the key skills of a data scientist?](https://www.quora.com/What-are-the-key-skills-of-a-data-scientist)
+
+- [The Big List of DS/ML Interview Resources](https://towardsdatascience.com/the-big-list-of-ds-ml-interview-resources-2db4f651bd63)

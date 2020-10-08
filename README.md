@@ -22,6 +22,8 @@
 
 11. [Kaggle Competitions WriteUp](#kaggle-competitions-writeUp)
 
+12. [Linear Regression](#linear-regression)
+
 [[↑] Back to top](#table-of-contents)
 
 ## Natural Language Processing (NLP)
@@ -324,7 +326,7 @@
 
 - [How to Rank 10% in Your First Kaggle Competition](https://dnc1994.com/2016/05/rank-10-percent-in-first-kaggle-competition-en/)
 
-## List of Most Starred Github Projects related to Deep Learning
+## [List of Most Starred Github Projects related to Deep Learning0(#list-of-most-starred-github-projects-related-to-deep-learning)
 
 | Project Name                                                                    | Stars | Description                                                                                                                                                                           |
 | ------------------------------------------------------------------------------- | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -365,4 +367,21 @@
 
   - [Is linear regression valid when the dependant variable is not normally distributed?](https://www.researchgate.net/post/Is_linear_regression_valid_when_the_outcome_dependant_variable_not_normally_distributed)
 
-- Multicollinearity and VIF
+* [Dummy Variable Trap | Multicollinearity](https://en.wikipedia.org/wiki/Multicollinearity)
+
+  - [Dealing with multicollinearity using VIFs](https://jonlefcheck.net/2012/12/28/dealing-with-multicollinearity-using-variance-inflation-factors/)
+
+* [Residual Analysis](#residuals-)
+
+  - [Interpreting plot.lm() in R](http://stats.stackexchange.com/questions/58141/interpreting-plot-lm)
+
+  - [How to interpret a QQ plot?](http://stats.stackexchange.com/questions/101274/how-to-interpret-a-qq-plot?lq=1)
+
+  - [Interpreting Residuals vs Fitted Plot](http://stats.stackexchange.com/questions/76226/interpreting-the-residuals-vs-fitted-values-plot-for-verifying-the-assumptions)
+
+* [Outliers](#outliers-)
+
+  - [How should outliers be dealt with?](http://stats.stackexchange.com/questions/175/how-should-outliers-be-dealt-with-in-linear-regression-analysis)
+
+* [Elastic Net](https://en.wikipedia.org/wiki/Elastic_net_regularization) - [Regularization and Variable Selection via the
+  Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)

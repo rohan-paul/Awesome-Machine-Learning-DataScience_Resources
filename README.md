@@ -115,6 +115,9 @@
 - [google AI blog](https://ai.googleblog.com/)
 - [BAIR - Berkeley Artificial Intelligence Research](https://bair.berkeley.edu/blog/?refresh=1)
 - [openai.com/](https://openai.com/)
+- [deepmind.com/research](https://deepmind.com/research)
+- [MIT Machine Learning](https://news.mit.edu/topic/machine-learning)
+- [colah.github.io/](https://colah.github.io/)
 
 [[↑] Back to top](#table-of-contents)
 

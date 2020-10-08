@@ -22,13 +22,19 @@
 
 11. [Kaggle Competitions WriteUp](#kaggle-competitions-writeUp)
 
+[[↑] Back to top](#table-of-contents)
+
 ## Natural Language Processing (NLP)
 
 [Datasets](https://github.com/huggingface/datasets) is a lightweight and extensible library to easily share and access datasets and evaluation metrics for Natural Language Processing (NLP) and more.
 
+[[↑] Back to top](#table-of-contents)
+
 ## Statistics
 
 - [Jupyter notebooks for the book "The Elements of Statistical Learning"](https://github.com/maitbayev/the-elements-of-statistical-learning)
+
+[[↑] Back to top](#table-of-contents)
 
 ## Blogs & Social Media
 
@@ -76,6 +82,8 @@
 
 - [Computational Linear Algebra](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md)
 
+[[↑] Back to top](#table-of-contents)
+
 ## Inspirational Stories of people breaking into Machine Learning and Data-Science
 
 - [Brian Ross - from Carpenter to Data-Engineer](https://www.linkedin.com/feed/update/urn:li:activity:6689844548513927168/?commentUrn=urn%3Ali%3Acomment%3A)
@@ -85,6 +93,8 @@
 - [Success Story of Sriganesh: From 10+ years @ IT Services to a Data Scientist @ Amazon](https://www.youtube.com/watch?v=-kDfIealAPY&ab_channel=AppliedAICourse)
 - [How I Got 4 Data Science Offers and Doubled my Income 2 Months after being Laid Off](https://towardsdatascience.com/how-i-got-4-data-science-offers-and-doubled-my-income-2-months-after-being-laid-off-b3b6d2de6938)
 - [I got 7 job offers during the worst job market in history. Here’s the data](http://www.jefflichronicles.com/blog/2020/9/26/i-got-7-job-offers-during-the-worst-job-market-in-history-heres-the-data)
+
+[[↑] Back to top](#table-of-contents)
 
 ## Genaral Datasets
 
@@ -210,6 +220,8 @@
 120.  [Large-scale Fashion (DeepFashion) Database](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html) - Contains over 800,000 diverse fashion images. Each image in this dataset is labeled with 50 categories, 1,000 descriptive attributes, bounding box and clothing landmarks
 121.  [FakeNewsCorpus](https://github.com/several27/FakeNewsCorpus) - Contains about 10 million news articles classified using [opensources.co](http://opensources.co) types
 
+[[↑] Back to top](#table-of-contents)
+
 ## Finance
 
 - [BIS Statistics - BIS statistics, compiled in cooperation with central](https://www.bis.org/statistics/full_data_sets.htm)
@@ -236,6 +248,8 @@
 
 - [Yahoo Finance](http://finance.yahoo.com/)
 
+[[↑] Back to top](#table-of-contents)
+
 ## Super Large Kaggle Datasets
 
 - [Sketches and Strokes from the QuickDraw Game](https://www.kaggle.com/google/tinyquickdraw)
@@ -250,13 +264,19 @@
 - [COVID19-Engineering-Books-NLP-Dataset](https://www.kaggle.com/praveengovi/covid19engineeringbooksnlpdataset)
 - [Lyft 3D Object Detection for Autonomous Vehicles](https://www.kaggle.com/c/3d-object-detection-for-autonomous-vehicles/data)
 
+[[↑] Back to top](#table-of-contents)
+
 ## TensorFlow
 
 - [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples)
 
+[[↑] Back to top](#table-of-contents)
+
 ## Machine Learning & Deep Learning Tutorials
 
 - [Awesome Artificial Intelligence (GitHub Repo)](https://github.com/owainlewis/awesome-artificial-intelligence)
+
+[[↑] Back to top](#table-of-contents)
 
 ## Interview Resources
 
@@ -271,6 +291,8 @@
 - [What are the key skills of a data scientist?](https://www.quora.com/What-are-the-key-skills-of-a-data-scientist)
 
 - [The Big List of DS/ML Interview Resources](https://towardsdatascience.com/the-big-list-of-ds-ml-interview-resources-2db4f651bd63)
+
+[[↑] Back to top](#table-of-contents)
 
 ## Genetic Algorithms
 
@@ -287,6 +309,8 @@
   - [Genetic Programming in Python (GitHub)](https://github.com/trevorstephens/gplearn)
 
   - [Genetic Alogorithms vs Genetic Programming (Quora)](https://www.quora.com/Whats-the-difference-between-Genetic-Algorithms-and-Genetic-Programming), [StackOverflow](http://stackoverflow.com/questions/3819977/what-are-the-differences-between-genetic-algorithms-and-genetic-programming)
+
+[[↑] Back to top](#table-of-contents)
 
 ## Kaggle Competitions WriteUp
 

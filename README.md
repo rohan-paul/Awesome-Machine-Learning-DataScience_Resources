@@ -96,6 +96,10 @@
 
 - [Dataconomy Home - Dataconomy](https://dataconomy.com/)
 
+- [Yannic Kilcher](https://www.bitchute.com/channel/yannic-kilcher/)
+
+- [Towards AI — Multidisciplinary Science Journal – Medium](https://medium.com/towards-artificial-intelligence)
+
 [[↑] Back to top](#table-of-contents)
 
 ## ML Math
@@ -355,6 +359,8 @@
 - [Predicting CTR with Online ML](http://mlwave.com/predicting-click-through-rates-with-online-machine-learning/)
 
 - [How to Rank 10% in Your First Kaggle Competition](https://dnc1994.com/2016/05/rank-10-percent-in-first-kaggle-competition-en/)
+
+[[↑] Back to top](#table-of-contents)
 
 ## [List of Most Starred Github Projects related to Deep Learning0(#list-of-most-starred-github-projects-related-to-deep-learning)
 

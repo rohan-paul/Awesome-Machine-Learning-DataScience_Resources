@@ -4,6 +4,12 @@
 
 2. [Statistics](#statistics)
 
+3. [Blogs & Social Media](#blogs--social-media)
+
+4. [ML Math](ml-math)
+
+5. [Inspirational Stories of people breaking into Machine Learning and Data-Science](#inspirational-stories-of-people-breaking-into-machine-learning-and-data-science)
+
 ## Natural Language Processing (NLP)
 
 [Datasets](https://github.com/huggingface/datasets) is a lightweight and extensible library to easily share and access datasets and evaluation metrics for Natural Language Processing (NLP) and more.

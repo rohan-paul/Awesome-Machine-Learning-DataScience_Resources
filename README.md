@@ -4,13 +4,13 @@
 
 2. [Statistics](#statistics)
 
-3. [Blogs & Social Media](#blogs--social-media)
+3. [Blogs and other Community based resources](#blogs-and-other-community-based-resources)
 
-4. [ML Math](ml-math)
+4. [ML Math](#ml-math)
 
 5. [Inspirational Stories of people breaking into Machine Learning and Data-Science](#inspirational-stories-of-people-breaking-into-machine-learning-and-data-science)
 
-6. [Genaral Datasets](genaral-datasets)
+6. [Genaral Datasets](#genaral-datasets)
 
 7. [Finance related Datasets](#finance)
 

@@ -99,6 +99,13 @@
 - [Yannic Kilcher](https://www.bitchute.com/channel/yannic-kilcher/)
 
 - [Towards AI — Multidisciplinary Science Journal – Medium](https://medium.com/towards-artificial-intelligence)
+- [Newest 'machine-learning' Questions - Stack Overflow](https://stackoverflow.com/questions/tagged/machine-learning?tab=Newest)
+- [Weekly topics - Dataquest Community](https://community.dataquest.io/top/weekly)
+- [Reddit - Machine Learning](https://www.reddit.com/r/MachineLearning/new/)
+- [Reddit - Learn Machine Learning](https://www.reddit.com/r/learnmachinelearning/new/)
+- [Reddit - Deep Learning](https://www.reddit.com/r/deeplearning/new/)
+- [Reddit - A Powerful Machine Intelligence Library](https://www.reddit.com/r/tensorflow/new/)
+- [Reddit GoogleColabNotebooks](https://www.reddit.com/r/GoogleColabNotebooks/new/)
 
 [[↑] Back to top](#table-of-contents)
 

@@ -76,6 +76,10 @@
 
 - [Machine Learning | Latest News, Photos & Videos | WIRED](https://www.wired.com/tag/machine-learning/)
 
+- [Analytics India Magazine | Artificial Intelligence & Data Science stories](https://analyticsindiamag.com/)
+
+- [Blogs on Artificial Intelligence, Machine Learning, Python & Data Science](https://www.mygreatlearning.com/blog/?utm_source=Youtube)
+
 [[↑] Back to top](#table-of-contents)
 
 ## ML Math

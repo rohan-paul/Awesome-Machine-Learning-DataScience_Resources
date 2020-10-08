@@ -10,6 +10,12 @@
 
 5. [Inspirational Stories of people breaking into Machine Learning and Data-Science](#inspirational-stories-of-people-breaking-into-machine-learning-and-data-science)
 
+6. [Genaral Datasets](genaral-datasets)
+
+7. [Finance related Datasets](#finance)
+
+8. [Super Large Kaggle Datasets](super-large-kaggle-datasets)
+
 ## Natural Language Processing (NLP)
 
 [Datasets](https://github.com/huggingface/datasets) is a lightweight and extensible library to easily share and access datasets and evaluation metrics for Natural Language Processing (NLP) and more.

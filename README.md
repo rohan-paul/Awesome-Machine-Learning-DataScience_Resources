@@ -339,3 +339,6 @@
 | [transformers](https://github.com/huggingface/transformers)                 | 30.4k | 🤗Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0. |
 | [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)     | 29.1k | 100 Days of ML Coding                                                                        |
 | [julia](https://github.com/JuliaLang/julia)                                 | 28.1k | The Julia Language: A fresh approach to technical computing.                                 |
+| [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) | 26.6k | The Patterns of Scalable, Reliable, and Performant Large-Scale Systems                       |
+| [basics](https://github.com/madewithml/basics)                              | 24.5k | 📚 Learn ML with clean code, simplified math and illustrative visuals.                       |
+| [bert](https://github.com/google-research/bert)                             | 23.9k | TensorFlow code and pre-trained models for BERT                                              |

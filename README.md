@@ -70,6 +70,8 @@
 
 - [Great Machine Learnings Blog](https://machinelearnings.co/?gi=60f1db8659c0)
 
+- [Microsoft Machine Learning Blog](https://docs.microsoft.com/en-gb/archive/blogs/machinelearning/)
+
 [[↑] Back to top](#table-of-contents)
 
 ## ML Math

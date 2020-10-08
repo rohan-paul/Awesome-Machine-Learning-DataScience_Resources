@@ -350,6 +350,7 @@
 
 - [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples)
 - [TensorFlow-Tutorials](https://github.com/nlintz/TensorFlow-Tutorials)
+- [Awesome Tensorflow](https://github.com/jtoy/awesome-tensorflow)
 
 [[↑] Back to top](#table-of-contents)
 

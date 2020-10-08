@@ -112,6 +112,9 @@
 - [Machine Learning Blog, ML@CMU, Carnegie Mellon University](https://blog.ml.cmu.edu/)
 - [Amazon Science Blog](https://www.amazon.science/blog)
 - [distill](https://distill.pub/)
+- [google AI blog](https://ai.googleblog.com/)
+- [BAIR - Berkeley Artificial Intelligence Research](https://bair.berkeley.edu/blog/?refresh=1)
+- [openai.com/](https://openai.com/)
 
 [[↑] Back to top](#table-of-contents)
 

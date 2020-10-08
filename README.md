@@ -111,6 +111,7 @@
 - [Machine Learning(Theory)](https://hunch.net/)
 - [Machine Learning Blog, ML@CMU, Carnegie Mellon University](https://blog.ml.cmu.edu/)
 - [Amazon Science Blog](https://www.amazon.science/blog)
+- [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/)
 - [distill](https://distill.pub/)
 - [google AI blog](https://ai.googleblog.com/)
 - [BAIR - Berkeley Artificial Intelligence Research](https://bair.berkeley.edu/blog/?refresh=1)
@@ -118,6 +119,7 @@
 - [deepmind.com/research](https://deepmind.com/research)
 - [MIT Machine Learning](https://news.mit.edu/topic/machine-learning)
 - [colah.github.io/](https://colah.github.io/)
+- [Facebook AI](https://ai.facebook.com/blog/)
 
 [[↑] Back to top](#table-of-contents)
 

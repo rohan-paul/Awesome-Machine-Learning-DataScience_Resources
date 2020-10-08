@@ -1,4 +1,4 @@
-## Table of Contents of this Readme file
+## Table of Contents
 
 1. [Natural Language Processing](#natural-language-processing-nlp)
 
@@ -14,11 +14,13 @@
 
 7. [Finance related Datasets](#finance)
 
-8. [Super Large Kaggle Datasets](super-large-kaggle-datasets)
+8. [Super Large Kaggle Datasets](#super-large-kaggle-datasets)
 
-9. [Machine Learning & Deep Learning Tutorials](machine-learning--deep-learning-tutorials)
+9. [Machine Learning & Deep Learning Tutorials](#machine-learning--deep-learning-tutorials)
 
-10. [Interview Resources](interview-resources)
+10. [Interview Resources](#interview-resources)
+
+11. [Kaggle Competitions WriteUp](#kaggle-competitions-writeUp)
 
 ## Natural Language Processing (NLP)
 
@@ -56,7 +58,7 @@
 
 - [Machine Learning FAQs on Quora](https://www.quora.com/topic/Machine-Learning/faq)
 
-[[↑] Back to top](#table-of-contents-of-this-readme-file)
+[[↑] Back to top](#table-of-contents)
 
 ## ML Math
 
@@ -285,3 +287,15 @@
   - [Genetic Programming in Python (GitHub)](https://github.com/trevorstephens/gplearn)
 
   - [Genetic Alogorithms vs Genetic Programming (Quora)](https://www.quora.com/Whats-the-difference-between-Genetic-Algorithms-and-Genetic-Programming), [StackOverflow](http://stackoverflow.com/questions/3819977/what-are-the-differences-between-genetic-algorithms-and-genetic-programming)
+
+## Kaggle Competitions WriteUp
+
+- [How to almost win Kaggle Competitions](https://yanirseroussi.com/2014/08/24/how-to-almost-win-kaggle-competitions/)
+
+- [Convolution Neural Networks for EEG detection](http://blog.kaggle.com/2015/10/05/grasp-and-lift-eeg-detection-winners-interview-3rd-place-team-hedj/)
+
+- [Facebook Recruiting III Explained](http://alexminnaar.com/tag/kaggle-competitions.html)
+
+- [Predicting CTR with Online ML](http://mlwave.com/predicting-click-through-rates-with-online-machine-learning/)
+
+- [How to Rank 10% in Your First Kaggle Competition](https://dnc1994.com/2016/05/rank-10-percent-in-first-kaggle-competition-en/)

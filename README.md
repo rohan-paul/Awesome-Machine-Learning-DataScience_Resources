@@ -442,3 +442,8 @@
 
 - [Upskilling from Home · Data Crunch Corporation](https://open.spotify.com/show/5Kqi6CV44DNi85N4c9Lv5P)
 - [O’Reilly Data Show Podcast – O’Reilly](https://www.oreilly.com/radar/topics/oreilly-data-show-podcast/)
+- [Introduction · Data Skeptic](https://open.spotify.com/show/1BZN7H3ikovSejhwQTzNm4)
+- [Spotify – Data Stories | Podcast on Spotify](https://open.spotify.com/show/0aIvhK1ANin1kSOKRhWG1M)
+- [Spotify – DataFramed | Podcast on Spotify](https://open.spotify.com/show/02yJXEJAJiQ0Vm2AO9Xj6X)
+- [Hunting for the Higgs · Linear Digressions](https://open.spotify.com/show/1JdkD0ZoZ52KjwdR0b1WoT)
+- [Spotify – Not So Standard Deviations | Podcast on Spotify](https://open.spotify.com/show/1NJ6li5ZpNVBBQfpd3D6bi)

@@ -1,3 +1,9 @@
+## Table of Contents of this Readme file
+
+1. [Natural Language Processing](#natural-language-processing-nlp)
+
+2. [Statistics](#statistics)
+
 ## Natural Language Processing (NLP)
 
 [Datasets](https://github.com/huggingface/datasets) is a lightweight and extensible library to easily share and access datasets and evaluation metrics for Natural Language Processing (NLP) and more.

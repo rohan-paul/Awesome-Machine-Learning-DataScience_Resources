@@ -42,6 +42,8 @@
 
 ## Blogs & Social Media
 
+- [Towards Data Science](https://towardsdatascience.com/)
+
 - [KD Nuggets](https://www.kdnuggets.com/)
 
 - [Andrew Ng](https://www.andrewng.org/)

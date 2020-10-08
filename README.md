@@ -326,10 +326,13 @@
 
 ## List of Most Starred Github Projects related to Deep Learning
 
-| Project Name                                                                | Stars | Description                                                                |
-| --------------------------------------------------------------------------- | ----- | -------------------------------------------------------------------------- |
-| [tensorflow](https://github.com/tensorflow/tensorflow)                      | 146k  | An Open Source Machine Learning Framework for Everyone                     |
-| [keras](https://github.com/keras-team/keras)                                | 48.9k | Deep Learning for humans                                                   |
-| [opencv](https://github.com/opencv/opencv)                                  | 46.1k | Open Source Computer Vision Library                                        |
-| [pytorch](https://github.com/pytorch/pytorch)                               | 40k   | Tensors and Dynamic neural networks in Python with strong GPU acceleration |
-| [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) | 38.1k | TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)        |
+| Project Name                                                                | Stars | Description                                                                 |
+| --------------------------------------------------------------------------- | ----- | --------------------------------------------------------------------------- |
+| [tensorflow](https://github.com/tensorflow/tensorflow)                      | 146k  | An Open Source Machine Learning Framework for Everyone                      |
+| [keras](https://github.com/keras-team/keras)                                | 48.9k | Deep Learning for humans                                                    |
+| [opencv](https://github.com/opencv/opencv)                                  | 46.1k | Open Source Computer Vision Library                                         |
+| [pytorch](https://github.com/pytorch/pytorch)                               | 40k   | Tensors and Dynamic neural networks in Python with strong GPU acceleration  |
+| [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) | 38.1k | TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)         |
+| [tesseract](https://github.com/tesseract-ocr/tesseract)                     | 35.3k | Tesseract Open Source OCR Engine (main repository)                          |
+| [face_recognition](https://github.com/ageitgey/face_recognition)            | 35.2k | The world's simplest facial recognition api for Python and the command line |
+| [faceswap](https://github.com/deepfakes/faceswap)                           | 31.4k | Deepfakes Software For All                                                  |

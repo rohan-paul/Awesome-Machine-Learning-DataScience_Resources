@@ -760,6 +760,11 @@ If you haven't already, checkout [Kaggle's Covid19 Section](https://www.kaggle.c
   - [Facebook's FAIR](https://github.com/facebookresearch/DrQA) is built in a similar way for Wikipedia.
   - Dataset: [NCERT books](http://ncert.nic.in/ebooks.html) for K-12/school students in India, [NarrativeQA by Google DeepMind](https://github.com/deepmind/narrativeqa) and [SQuAD by Stanford](https://rajpurkar.github.io/SQuAD-explorer/)
 
+* **Social Chat/Conversational Bots**
+  - Can you build a bot which talks to you just like people talk on social networking sites?
+  - Reference: [Chat-bot architecture](https://github.com/aryanc55/TS3000_TheChatBOT)
+  - Dataset: [Reddit Dataset](http://files.pushshift.io/reddit/comments/)
+
 ## Some of the Best Kaggle Competitions for Beginners
 
 **Classification :**

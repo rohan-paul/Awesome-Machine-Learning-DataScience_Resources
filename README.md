@@ -27,17 +27,39 @@
 
 14. [Linear Regression](#linear-regression)
 
-15. [Logistic Regression](#logistic-regression)
-16. [K Nearest Neighbors Tutorials](#k-nearest-neighbors-tutorials)
-17. [Best Courses](#best-courses)
-18. [Most Important Deep Learning Papers](#most-important-deep-learning-papers)
-19. [Great Deep Learning Paper Year-wise](#great-deep-learning-paper-year-wise)
-20. [Deep Learning Resources](#deep-learning-resources)
-21. [Best Deep Learning Courses](#best-deep-learning-courses)
-22. [Awesome Deep Learning Projects](#awesome-deep-learning-projects)
-23. [Project Ideas for deep learning and general machine learning](project-ideas-for-deep-learning-and-general-machine-learning)
-24. [Natural Language Project Ideas](#natural-language-project-ideas)
-25. [Forecasting Project Ideas](#Forecasting-project-Ideas)
+- [Table of Contents](#table-of-contents)
+- [If you are new to Data Science](#if-you-are-new-to-data-science)
+- [Natural Language Processing (NLP)](#natural-language-processing-nlp)
+- [Statistics](#statistics)
+- [Blogs and other Community based resources](#blogs-and-other-community-based-resources)
+- [ML Math](#ml-math)
+- [Inspirational Stories of people breaking into Machine Learning and Data-Science](#inspirational-stories-of-people-breaking-into-machine-learning-and-data-science)
+- [Genaral Datasets](#genaral-datasets)
+- [Finance](#finance)
+- [Super Large Kaggle Datasets](#super-large-kaggle-datasets)
+- [Numpy](#numpy)
+- [TensorFlow](#tensorflow)
+- [Machine Learning & Deep Learning Tutorials](#machine-learning--deep-learning-tutorials)
+- [Interview Resources](#interview-resources)
+- [Genetic Algorithms](#genetic-algorithms)
+- [Kaggle Competitions WriteUp](#kaggle-competitions-writeup)
+- [[List of Most Starred Github Projects related to Deep Learning0(#list-of-most-starred-github-projects-related-to-deep-learning)](#list-of-most-starred-github-projects-related-to-deep-learning0list-of-most-starred-github-projects-related-to-deep-learning)
+- [Linear Regression Tutorials](#linear-regression-tutorials)
+- [Logistic Regression Tutorials](#logistic-regression-tutorials)
+- [K Nearest Neighbors Tutorials](#k-nearest-neighbors-tutorials)
+- [Best Courses](#best-courses)
+- [Top Machine Learning Podcasts](#top-machine-learning-podcasts)
+- [Most Important Deep Learning Papers](#most-important-deep-learning-papers)
+- [Great Deep Learning Paper Year-wise](#great-deep-learning-paper-year-wise)
+- [Deep Learning Resources](#deep-learning-resources)
+- [Best Deep Learning Courses](#best-deep-learning-courses)
+- [Awesome Deep Learning Projects](#awesome-deep-learning-projects)
+- [Project Ideas for deep learning and general machine learning](#project-ideas-for-deep-learning-and-general-machine-learning)
+    - [Covid19](#covid19)
+- [Natural Language Project Ideas](#natural-language-project-ideas)
+- [Forecasting Project Ideas](#forecasting-project-ideas)
+- [Recommendation systems Project Ideas](#recommendation-systems-project-ideas)
+- [Some of the Best Kaggle Competitions for Beginners](#some-of-the-best-kaggle-competitions-for-beginners)
 
 [[↑] Back to top](#table-of-contents)
 
@@ -806,6 +828,8 @@ Check [mlm/blog](http://machinelearningmastery.com/text-generation-lstm-recurren
   - We're interested in predicting if a blood donor will donate within a given time window.
   - More on the problem statement at [Driven Data](https://www.drivendata.org/competitions/2/warm-up-predict-blood-donations/page/7/).
   - Dataset: [UCI ML Datasets Repo](https://archive.ics.uci.edu/ml/datasets/Blood+Transfusion+Service+Center)
+
+## Recommendation systems Project Ideas
 
 ## Some of the Best Kaggle Competitions for Beginners
 

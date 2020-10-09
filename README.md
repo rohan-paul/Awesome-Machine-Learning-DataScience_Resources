@@ -582,3 +582,8 @@ Some of papers thought to be influential in getting deep learning ecosystem. I f
 - [VGGNet](https://arxiv.org/pdf/1409.1556v6.pdf)
 - [ZFNet](https://arxiv.org/pdf/1311.2901v3.pdf)
 - [ResNet](https://arxiv.org/pdf/1512.03385.pdf)
+- [R-CNN](https://arxiv.org/pdf/1311.2524v5.pdf)
+- [Fast R-CNN](https://arxiv.org/pdf/1504.08083.pdf)
+- [Adversarial Images](https://arxiv.org/pdf/1412.1897.pdf)
+- [Generative Adversarial Networks](https://arxiv.org/pdf/1406.2661v1.pdf)
+- [Spatial Transformer Networks](https://arxiv.org/pdf/1506.02025.pdf)

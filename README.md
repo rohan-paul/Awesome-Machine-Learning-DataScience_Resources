@@ -729,3 +729,8 @@ If you haven't already, checkout [Kaggle's Covid19 Section](https://www.kaggle.c
 
   - Make a multi-label classification system that automatically assigns tags for questions posted on a forum such as StackOverflow or Quora.
   - Dataset: [StackLite](https://www.kaggle.com/stackoverflow/stacklite) or [10% sample](https://www.kaggle.com/stackoverflow/stacksample)
+
+- **Keyword/Concept identification**
+
+  - Identify keywords from millions of questions
+  - Dataset: [StackOverflow question samples by Facebook](https://www.kaggle.com/c/facebook-recruiting-iii-keyword-extraction/data)

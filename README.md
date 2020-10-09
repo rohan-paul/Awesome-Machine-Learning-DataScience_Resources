@@ -759,3 +759,6 @@ If you haven't already, checkout [Kaggle's Covid19 Section](https://www.kaggle.c
 - Titanic (Can't miss it :) ) : https://www.kaggle.com/c/titanic
 - Forest Cover Type Prediction (Late Submission): https://www.kaggle.com/c/forest-cover-type-prediction
 - Don't Overfit 2 (Late Submission): https://www.kaggle.com/c/dont-overfit-ii
+- CareerCon 2019 (Late Submission)(Multiclass): https://www.kaggle.com/c/career-con-2019
+- IEEE-CIS Fraud Detection (Late Submission): https://www.kaggle.com/c/ieee-fraud-detection
+- Instant Gratification (Late Submission): https://www.kaggle.com/c/instant-gratification

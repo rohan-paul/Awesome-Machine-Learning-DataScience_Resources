@@ -779,3 +779,5 @@ If you haven't already, checkout [Kaggle's Covid19 Section](https://www.kaggle.c
 
 - Jigsaw Toxic Comment Classification Challenge (Late Submission): https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge
 - Jigsaw Unintended Bias in Toxicity Classification (Late Submission): https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification
+- Jigsaw Multilingual Toxic Comment Classification (Late Submission): https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification
+- Real or Not? NLP with Disaster Tweets (Ongoing): https://www.kaggle.com/c/nlp-getting-started

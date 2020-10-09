@@ -683,3 +683,5 @@ Some of papers thought to be influential in getting deep learning ecosystem. I f
   [Deep Learning for NLP (without Magic)](http://www.socher.org/index.php/DeepLearningTutorial/DeepLearningTutorial)
 - [A Deep Learning Tutorial: From Perceptrons to Deep Networks](http://www.toptal.com/machine-learning/an-introduction-to-deep-learning-from-perceptrons-to-deep-networks)
 - [Deep Learning from the Bottom up](http://www.metacademy.org/roadmaps/rgrosse/deep_learning)
+  [Theano Tutorial](http://deeplearning.net/tutorial/deeplearning.pdf)
+- [TensorFlow tutorials](https://github.com/nlintz/TensorFlow-Tutorials)

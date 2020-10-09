@@ -599,3 +599,6 @@ Some of papers thought to be influential in getting deep learning ecosystem. I f
 - [A3C](https://arxiv.org/pdf/1602.01783v2.pdf)
 - [Gradient Descent by Gradient Descent](https://arxiv.org/pdf/1606.04474v1.pdf)
 - [Rethinking Generalization](https://arxiv.org/pdf/1611.03530v1.pdf)
+- [Densely Connected CNNs](https://arxiv.org/pdf/1608.06993v1.pdf)
+- [EBGAN](https://arxiv.org/pdf/1609.03126v1.pdf)
+- [Wasserstein GAN](https://arxiv.org/pdf/1701.07875.pdf)

@@ -671,6 +671,7 @@ Some of papers thought to be influential in getting deep learning ecosystem. I f
 ## Deep Learning Resources
 
 - [deep-learning-glossary/](http://www.wildml.com/deep-learning-glossary/)
+- [deep-learning-roadmap](https://github.com/instillai/deep-learning-roadmap)
 
 ## Best Deep Learning Courses
 

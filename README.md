@@ -34,6 +34,7 @@
 19. [Great Deep Learning Paper Year-wise](#great-deep-learning-paper-year-wise)
 20. [Deep Learning Resources](#deep-learning-resources)
 21. [Best Deep Learning Courses](#best-deep-learning-courses)
+22. [Awesome Deep Learning Projects](#awesome-deep-learning-projects)
 
 [[↑] Back to top](#table-of-contents)
 
@@ -688,3 +689,9 @@ Some of papers thought to be influential in getting deep learning ecosystem. I f
   [Deep Learning with R in Motion](https://www.manning.com/livevideo/deep-learning-with-r-in-motion)
 - [Grokking Deep Learning in Motion](https://www.manning.com/livevideo/grokking-deep-learning-in-motion)
 - [Machine Learning, Data Science and Deep Learning with Python](https://www.manning.com/livevideo/machine-learning-data-science-and-deep-learning-with-python)
+
+## Awesome Deep Learning Projects
+
+- [15 AI and Machine Learning Events](http://botunity.co/14-ai-and-machine-learning-events/)
+- [188 examples of artificial intelligence in action](https://poo.ai/)
+- [A curated list of automated machine learning papers, articles, tutorials, slides and projects](https://github.com/hibayesian/awesome-automl-papers)

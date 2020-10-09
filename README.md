@@ -698,3 +698,5 @@ Some of papers thought to be influential in getting deep learning ecosystem. I f
 - [A curated list of automated machine learning papers, articles, tutorials, slides and projects](https://github.com/hibayesian/awesome-automl-papers)
 - - [A curated list of awesome Machine Learning frameworks, libraries and software.](https://github.com/josephmisiti/awesome-machine-learning)
 - [A curated list of awesome places to learn and/or practice algorithms.](https://github.com/tayllan/awesome-algorithms)
+- - [A curated list of awesome R packages and tools](https://github.com/qinwf/awesome-R)
+- [A curated list of awesome SLAM tutorials, projects and communities.](https://github.com/kanster/awesome-slam)

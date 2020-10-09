@@ -836,6 +836,10 @@ Check [mlm/blog](http://machinelearningmastery.com/text-generation-lstm-recurren
   - Do this using the movies that user has rated in the past, as well as the ratings similar users have given similar movies.
   - Dataset: [Netflix Prize](http://www.netflixprize.com/) and [MovieLens Datasets](https://grouplens.org/datasets/movielens/)
 
+* **Search + Recommendation System**
+  - Predict which Xbox game a visitor will be most interested in based on their search query
+  - Dataset: [BestBuy](https://www.kaggle.com/c/acm-sf-chapter-hackathon-small/data)
+
 ## Some of the Best Kaggle Competitions for Beginners
 
 **Classification :**

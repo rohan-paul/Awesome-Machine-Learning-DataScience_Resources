@@ -756,6 +756,8 @@ If you haven't already, checkout [Kaggle's Covid19 Section](https://www.kaggle.c
 
 ## Some of the Best Kaggle Competitions for Beginners
 
+**Classification :**
+
 - Titanic (Can't miss it :) ) : https://www.kaggle.com/c/titanic
 - Forest Cover Type Prediction (Late Submission): https://www.kaggle.com/c/forest-cover-type-prediction
 - Don't Overfit 2 (Late Submission): https://www.kaggle.com/c/dont-overfit-ii
@@ -764,3 +766,8 @@ If you haven't already, checkout [Kaggle's Covid19 Section](https://www.kaggle.c
 - Instant Gratification (Late Submission): https://www.kaggle.com/c/instant-gratification
 - Categorical Feature Encoding Challenge (Late Submission): https://www.kaggle.com/c/cat-in-the-dat
 - University of Liverpool - Ion Switching (Late Submission): https://www.kaggle.com/c/liverpool-ion-switching
+
+**[Binary Classification Tips and tricks](https://neptune.ai/blog/tabular-data-binary-classification-tips-and-tricks-from-5-kaggle-competitions)**
+
+- House Prices (Ongoing): https://www.kaggle.com/c/house-prices-advanced-regression-techniques
+- Bike Sharing Demand (Late Submission): https://www.kaggle.com/c/bike-sharing-demand/data

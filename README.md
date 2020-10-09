@@ -840,6 +840,10 @@ Check [mlm/blog](http://machinelearningmastery.com/text-generation-lstm-recurren
   - Predict which Xbox game a visitor will be most interested in based on their search query
   - Dataset: [BestBuy](https://www.kaggle.com/c/acm-sf-chapter-hackathon-small/data)
 
+- **Can you predict Influencers in the Social Network?**
+  - How can you predict social influencers?
+  - Dataset: [PeerIndex](https://www.kaggle.com/c/predict-who-is-more-influential-in-a-social-network/data)
+
 ## Some of the Best Kaggle Competitions for Beginners
 
 **Classification :**

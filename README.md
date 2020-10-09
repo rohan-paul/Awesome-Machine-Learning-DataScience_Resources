@@ -884,3 +884,5 @@ Check [mlm/blog](http://machinelearningmastery.com/text-generation-lstm-recurren
 After data exploration, the first thing to do is to use those insights to prepare the data. To tackle issues like class imbalance, encoding categorical data, etc. Let’s see the methods used to do it.
 
 - [Methods to tackle class imbalance](https://www.kaggle.com/shahules/tackling-class-imbalance).
+- Data augmentation by **[Synthetic Minority Oversampling Technique](https://machinelearningmastery.com/smote-oversampling-for-imbalanced-classification/)**.
+- Fast inplace **[shuffle for augmentation](https://www.kaggle.com/jiweiliu/fast-inplace-shuffle-for-augmentation)**.

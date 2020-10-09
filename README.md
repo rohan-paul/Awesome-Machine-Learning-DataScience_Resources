@@ -529,6 +529,26 @@
 
 [[↑] Back to top](#table-of-contents)
 
+## Best Courses
+
+- [Stanford CS 231N](https://www.youtube.com/watch?v=g-PvXUjD6qg&list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA) - CNNs
+- [Stanford CS 224D](https://www.youtube.com/watch?v=sU_Yu_USrNc&list=PLTuSSFCVeNVCXL0Tak5rJ83O-Bg_ajO5B) - Deep Learning for NLP
+- [Hugo Larochelle's Neural Networks Course](https://www.youtube.com/watch?v=SGZ6BttHMPw&list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
+- [David Silver's Reinforcement Learning Course](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PL5X3mDkKaJrL42i_jhE4N-p6E2Ol62Ofa)
+- [Andrew Ng Machine Learning Course](https://www.coursera.org/learn/machine-learning)
+- [Stanford CS 229](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599) - Pretty much the same as the Coursera course
+- [UC Berkeley Kaggle Decal](https://kaggledecal.github.io/)
+- [Short MIT Intro to DL Course](https://www.youtube.com/playlist?list=PLkkuNyzb8LmxFutYuPA7B4oiMn6cjD6Rs)
+- [Udacity Deep Learning](https://www.udacity.com/course/deep-learning--ud730)
+- [Deep Learning School Montreal 2016](http://videolectures.net/deeplearning2016_montreal/) and [2017](http://videolectures.net/deeplearning2017_montreal/)
+- [Intro to Neural Nets and ML (Univ of Toronto)](http://www.cs.toronto.edu/~rgrosse/courses/csc321_2017/)
+- [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
+- [CMU Neural Networks for NLP](http://www.phontron.com/class/nn4nlp2017/schedule.html)
+- [Bay Area Deep Learning School Day 1 2016](https://www.youtube.com/watch?v=eyovmAtoUx0) and [Day 2](https://www.youtube.com/watch?v=9dXiAecyJrY)
+- [Introduction to Deep Learning MIT Course](https://www.youtube.com/playlist?list=PLkkuNyzb8LmxFutYuPA7B4oiMn6cjD6Rs)
+- [Caltech CS 156 - Machine Learning](https://www.youtube.com/playlist?list=PLD63A284B7615313A)
+- [Berkeley EE 227C - Convex Optimization](https://ee227c.github.io/)
+
 ## Top Machine Learning Podcasts
 
 - [Upskilling from Home · Data Crunch Corporation](https://open.spotify.com/show/5Kqi6CV44DNi85N4c9Lv5P)

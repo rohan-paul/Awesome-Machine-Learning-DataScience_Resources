@@ -17,19 +17,20 @@
 8. [Finance related Datasets](#finance)
 
 9. [Super Large Kaggle Datasets](#super-large-kaggle-datasets)
+10. [Numpy](#numpy)
 
-10. [Machine Learning & Deep Learning Tutorials](#machine-learning--deep-learning-tutorials)
+11. [Machine Learning & Deep Learning Tutorials](#machine-learning--deep-learning-tutorials)
 
-11. [Interview Resources](#interview-resources)
+12. [Interview Resources](#interview-resources)
 
-12. [Kaggle Competitions WriteUp](#kaggle-competitions-writeUp)
+13. [Kaggle Competitions WriteUp](#kaggle-competitions-writeUp)
 
-13. [Linear Regression](#linear-regression)
+14. [Linear Regression](#linear-regression)
 
-14. [Logistic Regression](#logistic-regression)
-15. [K Nearest Neighbors Tutorials](#k-nearest-neighbors-tutorials)
-16. [Best Courses](#best-courses)
-17. [Most Important Deep Learning Papers](#most-important-deep-learning-papers)
+15. [Logistic Regression](#logistic-regression)
+16. [K Nearest Neighbors Tutorials](#k-nearest-neighbors-tutorials)
+17. [Best Courses](#best-courses)
+18. [Most Important Deep Learning Papers](#most-important-deep-learning-papers)
 
 [[↑] Back to top](#table-of-contents)
 
@@ -369,6 +370,16 @@
 - [Spoken Language Identification](https://www.kaggle.com/toponowicz/spoken-language-identification)
 - [COVID19-Engineering-Books-NLP-Dataset](https://www.kaggle.com/praveengovi/covid19engineeringbooksnlpdataset)
 - [Lyft 3D Object Detection for Autonomous Vehicles](https://www.kaggle.com/c/3d-object-detection-for-autonomous-vehicles/data)
+
+[[↑] Back to top](#table-of-contents)
+
+## Numpy
+
+IPython Notebook(s) demonstrating NumPy functionality.
+
+| Notebook                                                                                                             | Description                                                                                                                                                       |
+| -------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [numpy](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/numpy/numpy.ipynb) | Adds Python support for large, multi-dimensional arrays and matrices, along with a large library of high-level mathematical functions to operate on these arrays. |
 
 [[↑] Back to top](#table-of-contents)
 

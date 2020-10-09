@@ -674,3 +674,4 @@ Some of papers thought to be influential in getting deep learning ecosystem. I f
 ## Best Deep Learning Courses
 
 - [Berkeley][cs294: deep reinforcement learning](http://rll.berkeley.edu/deeprlcourse/)
+- [Berkeley][stat212b：topics course on deep learning](http://joanbruna.github.io/stat212b/)

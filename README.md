@@ -749,3 +749,7 @@ If you haven't already, checkout [Kaggle's Covid19 Section](https://www.kaggle.c
 * **Sentence to Sentence semantic similarity**
   - Can you identify question pairs that have the same intent or meaning?
   - Dataset: [Quora question pairs](https://www.kaggle.com/c/quora-question-pairs/data) with similar questions marked
+
+- **Fight online abuse**
+  - Can you confidently and accurately tell whether a particular comment is abusive?
+  - Dataset: [Toxic comments on Kaggle](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge)

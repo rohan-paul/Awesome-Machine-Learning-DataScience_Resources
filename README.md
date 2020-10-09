@@ -771,3 +771,6 @@ If you haven't already, checkout [Kaggle's Covid19 Section](https://www.kaggle.c
 
 - House Prices (Ongoing): https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 - Bike Sharing Demand (Late Submission): https://www.kaggle.com/c/bike-sharing-demand/data
+- Predict Future Sales (Ongoing)(Time Series): https://www.kaggle.com/c/competitive-data-science-predict-future-sales
+- TMDB Box Office Prediction (Late Submission): https://www.kaggle.com/c/tmdb-box-office-prediction
+- ASHRAE - Great Energy Predictor III (Late Submission): https://www.kaggle.com/c/ashrae-energy-prediction/

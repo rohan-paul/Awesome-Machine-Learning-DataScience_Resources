@@ -498,8 +498,10 @@
 
 [[↑] Back to top](#table-of-contents)
 
-## Logistic Regression
+## Logistic Regression Tutorials
 
+- [Coursera Course - Logistic Regression and Classification](https://www.youtube.com/watch?v=-la3q9d7AKQ)
+- [Logistic Regression - An Introduction](https://www.youtube.com/watch?v=zAULhNrnuL4)
 - [Logistic Regression Wiki](https://en.wikipedia.org/wiki/Logistic_regression)
 
 - [Geometric Intuition of Logistic Regression](http://florianhartl.com/logistic-regression-geometric-intuition.html)

@@ -35,6 +35,7 @@
 20. [Deep Learning Resources](#deep-learning-resources)
 21. [Best Deep Learning Courses](#best-deep-learning-courses)
 22. [Awesome Deep Learning Projects](#awesome-deep-learning-projects)
+23. [Project Ideas for deep learning and general machine learning](project-ideas-for-deep-learning-and-general-machine-learning)
 
 [[↑] Back to top](#table-of-contents)
 
@@ -708,3 +709,12 @@ Some of papers thought to be influential in getting deep learning ecosystem. I f
 - [A list of deep learning implementations in biology](https://github.com/hussius/deeplearning-biology)
 - [Awesome-2vec](https://github.com/MaxwellRebo/awesome-2vec)
 - [Awesome Action Recognition](https://github.com/jinwchoi/awesome-action-recognition)
+
+## Project Ideas for deep learning and general machine learning
+
+#### Covid19
+
+- **Bing Coronavirus**
+
+  - Classify Bing Queries as either specific (e.g. about a specific location) or generic. You might have to figure out a more exact definition of specific or generic though
+  - Dataset: [BingCoronavirusQuerySet](https://github.com/microsoft/BingCoronavirusQuerySet)

@@ -678,3 +678,5 @@ Some of papers thought to be influential in getting deep learning ecosystem. I f
 - [CUHK][eleg 5040: advanced topics in signal processing(introduction to deep learning)](https://piazza.com/cuhk.edu.hk/spring2015/eleg5040/home)
 - [CMU][deep reinforcement learning and control](https://katefvision.github.io/)
 - [CMU][neural networks for nlp](http://phontron.com/class/nn4nlp2017/)
+- [UFLDL Tutorial 1](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial)
+- [UFLDL Tutorial 2](http://ufldl.stanford.edu/tutorial/supervised/LinearRegression/)

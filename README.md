@@ -629,3 +629,8 @@ Some of papers thought to be influential in getting deep learning ecosystem. I f
 - [Learned Index Structures](https://arxiv.org/pdf/1712.01208v1.pdf)
 - [Visualizing Loss Landscapes](https://arxiv.org/pdf/1712.09913v1.pdf)
 - [DenseNet](https://arxiv.org/pdf/1608.06993.pdf)
+- [SqueezeNet](https://arxiv.org/pdf/1602.07360.pdf)
+- [WaveNet](https://arxiv.org/pdf/1609.03499.pdf)
+- [Hidden Technical Debt in ML Systems](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf)
+- [MobileNets](https://arxiv.org/pdf/1704.04861.pdf)
+- [Learning from Imbalanced Data](http://www.ele.uri.edu/faculty/he/PDFfiles/ImbalancedLearning.pdf)

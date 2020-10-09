@@ -702,3 +702,5 @@ Some of papers thought to be influential in getting deep learning ecosystem. I f
 - [A curated list of awesome SLAM tutorials, projects and communities.](https://github.com/kanster/awesome-slam)
 - [A curated list of resources dedicated to bridge between coginitive science and deep learning](https://github.com/robi56/awesome-cognitive-science-and-deep-learning)
 - [A curated list of resources dedicated to Natural Language Processing (NLP)](https://github.com/keon/awesome-nlp)
+- [A curated list of resources for NLP (Natural Language Processing) for Chinese](https://github.com/crownpku/awesome-chinese-nlp#corpus-%E4%B8%AD%E6%96%87%E8%AF%AD%E6%96%99)
+- [Another curated list of deep learning resources](https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources)

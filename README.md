@@ -734,3 +734,7 @@ If you haven't already, checkout [Kaggle's Covid19 Section](https://www.kaggle.c
 
   - Identify keywords from millions of questions
   - Dataset: [StackOverflow question samples by Facebook](https://www.kaggle.com/c/facebook-recruiting-iii-keyword-extraction/data)
+
+* **Topic identification**
+  - Multi-label classification of printed media articles to topics
+  - Dataset: [Greek Media monitoring multi-label classification](https://www.kaggle.com/c/wise-2014/data)

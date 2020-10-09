@@ -614,3 +614,6 @@ Some of papers thought to be influential in getting deep learning ecosystem. I f
 - [Adam](https://arxiv.org/pdf/1412.6980.pdf)
 - [Speech Recognition](https://arxiv.org/pdf/1303.5778.pdf)
 - [Relational Networks](https://arxiv.org/pdf/1706.01427.pdf)
+- [Influence Functions](https://arxiv.org/pdf/1703.04730.pdf)
+- [ReLu](https://arxiv.org/pdf/1611.01491.pdf)
+- [Xavier Initialization](http://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf)

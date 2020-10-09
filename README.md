@@ -587,3 +587,8 @@ Some of papers thought to be influential in getting deep learning ecosystem. I f
 - [Adversarial Images](https://arxiv.org/pdf/1412.1897.pdf)
 - [Generative Adversarial Networks](https://arxiv.org/pdf/1406.2661v1.pdf)
 - [Spatial Transformer Networks](https://arxiv.org/pdf/1506.02025.pdf)
+- [DCGAN](https://arxiv.org/pdf/1511.06434v2.pdf)
+- [Synthetic Gradients](https://arxiv.org/pdf/1608.05343v1.pdf)
+- [Memory Networks](https://arxiv.org/pdf/1410.3916v11.pdf)
+- [Mixture of Experts](https://arxiv.org/pdf/1701.06538.pdf)
+- [Neural Turing Machines](https://arxiv.org/pdf/1410.5401.pdf)

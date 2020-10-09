@@ -502,7 +502,9 @@
 
 - [Coursera Course - Logistic Regression and Classification](https://www.youtube.com/watch?v=-la3q9d7AKQ)
 - [Logistic Regression - An Introduction](https://www.youtube.com/watch?v=zAULhNrnuL4)
+- [Stanford Logistic Regression Overview](http://ufldl.stanford.edu/tutorial/supervised/LogisticRegression/)
 - [Logistic Regression Wiki](https://en.wikipedia.org/wiki/Logistic_regression)
+- [Siraj Raval Logistic Regression Tutorial](https://www.youtube.com/watch?v=D8alok2P468)
 
 - [Geometric Intuition of Logistic Regression](http://florianhartl.com/logistic-regression-geometric-intuition.html)
 
@@ -515,6 +517,14 @@
 - [Pseudo R2 for Logistic Regression](http://stats.stackexchange.com/questions/3559/which-pseudo-r2-measure-is-the-one-to-report-for-logistic-regression-cox-s), [How to calculate](http://stats.stackexchange.com/questions/8511/how-to-calculate-pseudo-r2-from-rs-logistic-regression), [Other Details](http://www.ats.ucla.edu/stat/mult_pkg/faq/general/Psuedo_RSquareds.htm)
 
 - [Guide to an in-depth understanding of logistic regression](http://www.dataschool.io/guide-to-logistic-regression/)
+
+[[↑] Back to top](#table-of-contents)
+
+## K Nearest Neighbors Tutorials
+
+- [K Nearest Neighbors](https://www.youtube.com/watch?v=k_7gMp5wh5A)
+- [GeeksForGeeks Explanation](https://www.geeksforgeeks.org/k-nearest-neighbours/)
+- [Udacity Explanation of KNNs](https://www.youtube.com/watch?v=mpU84OJ5vdQ)
 
 [[↑] Back to top](#table-of-contents)
 

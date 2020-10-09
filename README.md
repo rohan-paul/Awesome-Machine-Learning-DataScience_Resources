@@ -890,3 +890,5 @@ After data exploration, the first thing to do is to use those insights to prepar
 - [Signal denoising](https://www.kaggle.com/jackvial/dwt-signal-denoising) used in signal processing competitions.
 - Finding [patterns of missing data](https://www.kaggle.com/jpmiller/patterns-of-missing-data).
 - Methods to handle [missing data](https://towardsdatascience.com/6-different-ways-to-compensate-for-missing-values-data-imputation-with-examples-6022d9ca0779).
+- An overview of various [encoding techniques for categorical data](https://www.kaggle.com/shahules/an-overview-of-encoding-techniques).
+- Building [model to predict missing values](https://www.kaggle.com/c/home-credit-default-risk/discussion/64598).

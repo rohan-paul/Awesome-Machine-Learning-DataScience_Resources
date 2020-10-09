@@ -458,10 +458,13 @@
 
 [[↑] Back to top](#table-of-contents)
 
-## Linear Regression
+## Linear Regression Tutorials
 
 - [General](#general-)
 
+  - [Coursera Course - Linear Regression with One Variable](https://www.youtube.com/watch?v=kHwlB_j7Hkc)
+  - [Simple Linear Regression](https://www.youtube.com/watch?v=ZkjP5RJLQF4)
+  - [Linear Regression for Machine Learning](https://machinelearningmastery.com/linear-regression-for-machine-learning/)
   - [Assumptions of Linear Regression](http://pareonline.net/getvn.asp?n=2&v=8), [Stack Exchange](http://stats.stackexchange.com/questions/16381/what-is-a-complete-list-of-the-usual-assumptions-for-linear-regression)
 
   - [Linear Regression Comprehensive Resource](http://people.duke.edu/~rnau/regintro.htm)

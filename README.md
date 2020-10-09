@@ -770,6 +770,13 @@ If you haven't already, checkout [Kaggle's Covid19 Section](https://www.kaggle.c
   - Abstractive (write your own summary) and Extractive (select pieces of text from original) are two popular approaches
   - Dataset: [CNN and DailyMail News Pieces](http://cs.nyu.edu/~kcho/DMQA/) by Google DeepMind
 
+* **Copy-cat Bot**
+  - Generate plausible new text which looks like some other text
+  - Obama Speeches? For instance, you can create a bot which writes some [new speeches in Obama's style](https://medium.com/@samim/obama-rnn-machine-generated-political-speeches-c8abd18a2ea0)
+  - Trump Bot? Or a Twitter bot which mimics [@realDonaldTrump](http://www.twitter.com/@realdonaldtrump)
+  - Narendra Modi bot saying "_doston_"? Start by scrapping off his _Hindi_ speeches from his [personal website](http://www.narendramodi.in)
+  - Example Dataset: [English Transcript of Modi speeches](https://github.com/mgupta1410/pm_modi_speeches_repo)
+
 ## Some of the Best Kaggle Competitions for Beginners
 
 **Classification :**

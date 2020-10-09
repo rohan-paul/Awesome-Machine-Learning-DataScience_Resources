@@ -886,3 +886,5 @@ After data exploration, the first thing to do is to use those insights to prepar
 - [Methods to tackle class imbalance](https://www.kaggle.com/shahules/tackling-class-imbalance).
 - Data augmentation by **[Synthetic Minority Oversampling Technique](https://machinelearningmastery.com/smote-oversampling-for-imbalanced-classification/)**.
 - Fast inplace **[shuffle for augmentation](https://www.kaggle.com/jiweiliu/fast-inplace-shuffle-for-augmentation)**.
+- Finding [synthetic samples in the dataset](https://www.kaggle.com/yag320/list-of-fake-samples-and-public-private-lb-split).
+- [Signal denoising](https://www.kaggle.com/jackvial/dwt-signal-denoising) used in signal processing competitions.

@@ -762,3 +762,5 @@ If you haven't already, checkout [Kaggle's Covid19 Section](https://www.kaggle.c
 - CareerCon 2019 (Late Submission)(Multiclass): https://www.kaggle.com/c/career-con-2019
 - IEEE-CIS Fraud Detection (Late Submission): https://www.kaggle.com/c/ieee-fraud-detection
 - Instant Gratification (Late Submission): https://www.kaggle.com/c/instant-gratification
+- Categorical Feature Encoding Challenge (Late Submission): https://www.kaggle.com/c/cat-in-the-dat
+- University of Liverpool - Ion Switching (Late Submission): https://www.kaggle.com/c/liverpool-ion-switching

@@ -33,6 +33,7 @@
 18. [Most Important Deep Learning Papers](#most-important-deep-learning-papers)
 19. [Great Deep Learning Paper Year-wise](#great-deep-learning-paper-year-wise)
 20. [Deep Learning Resources](#deep-learning-resources)
+21. [Best Deep Learning Courses](#best-deep-learning-courses)
 
 [[↑] Back to top](#table-of-contents)
 
@@ -669,3 +670,7 @@ Some of papers thought to be influential in getting deep learning ecosystem. I f
 ## Deep Learning Resources
 
 - [deep-learning-glossary/](http://www.wildml.com/deep-learning-glossary/)
+
+## Best Deep Learning Courses
+
+- [Berkeley][cs294: deep reinforcement learning](http://rll.berkeley.edu/deeprlcourse/)

@@ -831,6 +831,11 @@ Check [mlm/blog](http://machinelearningmastery.com/text-generation-lstm-recurren
 
 ## Recommendation systems Project Ideas
 
+- **Movie Recommender**
+  - Can you predict the rating a user will give on a movie?
+  - Do this using the movies that user has rated in the past, as well as the ratings similar users have given similar movies.
+  - Dataset: [Netflix Prize](http://www.netflixprize.com/) and [MovieLens Datasets](https://grouplens.org/datasets/movielens/)
+
 ## Some of the Best Kaggle Competitions for Beginners
 
 **Classification :**

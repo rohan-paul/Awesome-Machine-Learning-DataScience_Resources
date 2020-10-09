@@ -794,6 +794,10 @@ Check [mlm/blog](http://machinelearningmastery.com/text-generation-lstm-recurren
   - How much will it rain this year?
   - Dataset: [45 years of rainfall data](http://research.jisao.washington.edu/data_sets/widmann/)
 
+* **Multi-variate Time Series Forecasting**
+  - How polluted will your town's air be? Pollution Level Forecasting
+  - Dataset: [Air Quality dataset](https://archive.ics.uci.edu/ml/datasets/Beijing+PM2.5+Data)
+
 ## Some of the Best Kaggle Competitions for Beginners
 
 **Classification :**

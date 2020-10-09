@@ -596,3 +596,6 @@ Some of papers thought to be influential in getting deep learning ecosystem. I f
 - [Atari DQN](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
 - [Word2Vec](https://arxiv.org/pdf/1310.4546.pdf)
 - [GloVe](https://nlp.stanford.edu/pubs/glove.pdf)
+- [A3C](https://arxiv.org/pdf/1602.01783v2.pdf)
+- [Gradient Descent by Gradient Descent](https://arxiv.org/pdf/1606.04474v1.pdf)
+- [Rethinking Generalization](https://arxiv.org/pdf/1611.03530v1.pdf)

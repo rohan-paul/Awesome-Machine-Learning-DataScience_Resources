@@ -611,3 +611,6 @@ Some of papers thought to be influential in getting deep learning ecosystem. I f
 - [Batch Norm](https://arxiv.org/pdf/1502.03167.pdf)
 - [Large Batch Training](https://arxiv.org/pdf/1609.04836.pdf)
 - [Transfer Learning](http://papers.nips.cc/paper/5347-how-transferable-are-features-in-deep-neural-networks.pdf)
+- [Adam](https://arxiv.org/pdf/1412.6980.pdf)
+- [Speech Recognition](https://arxiv.org/pdf/1303.5778.pdf)
+- [Relational Networks](https://arxiv.org/pdf/1706.01427.pdf)

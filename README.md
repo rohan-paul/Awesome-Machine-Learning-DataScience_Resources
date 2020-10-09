@@ -377,9 +377,11 @@
 
 IPython Notebook(s) demonstrating NumPy functionality.
 
-| Notebook                                                                                                             | Description                                                                                                                                                       |
-| -------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [numpy](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/numpy/numpy.ipynb) | Adds Python support for large, multi-dimensional arrays and matrices, along with a large library of high-level mathematical functions to operate on these arrays. |
+| Notebook                                                                                                                                                         | Description                                                                                                                                                       |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [numpy](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/numpy/numpy.ipynb)                                             | Adds Python support for large, multi-dimensional arrays and matrices, along with a large library of high-level mathematical functions to operate on these arrays. |
+| [Introduction-to-NumPy](http://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/numpy/02.00-Introduction-to-NumPy.ipynb)       | Introduction to NumPy.                                                                                                                                            |
+| [Understanding-Data-Types](http://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/numpy/02.01-Understanding-Data-Types.ipynb) | Learn about data types in Python.                                                                                                                                 |
 
 [[↑] Back to top](#table-of-contents)
 

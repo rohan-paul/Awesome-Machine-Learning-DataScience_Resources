@@ -605,3 +605,6 @@ Some of papers thought to be influential in getting deep learning ecosystem. I f
 - [Style Transfer](https://arxiv.org/pdf/1603.08155v1.pdf)
 - [Pixel RNN](https://arxiv.org/pdf/1601.06759v2.pdf)
 - [Dynamic Coattention Networks](https://arxiv.org/pdf/1611.01604v2.pdf)
+- [Convolutional Seq2Seq Learning](https://arxiv.org/pdf/1705.03122.pdf)
+- [Seq2Seq](https://arxiv.org/pdf/1409.3215.pdf)
+- [Dropout](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf)

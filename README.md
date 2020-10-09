@@ -700,3 +700,5 @@ Some of papers thought to be influential in getting deep learning ecosystem. I f
 - [A curated list of awesome places to learn and/or practice algorithms.](https://github.com/tayllan/awesome-algorithms)
 - - [A curated list of awesome R packages and tools](https://github.com/qinwf/awesome-R)
 - [A curated list of awesome SLAM tutorials, projects and communities.](https://github.com/kanster/awesome-slam)
+- [A curated list of resources dedicated to bridge between coginitive science and deep learning](https://github.com/robi56/awesome-cognitive-science-and-deep-learning)
+- [A curated list of resources dedicated to Natural Language Processing (NLP)](https://github.com/keon/awesome-nlp)

@@ -37,6 +37,7 @@
 22. [Awesome Deep Learning Projects](#awesome-deep-learning-projects)
 23. [Project Ideas for deep learning and general machine learning](project-ideas-for-deep-learning-and-general-machine-learning)
 24. [Natural Language Project Ideas](#natural-language-project-ideas)
+25. [Forecasting Project Ideas](#Forecasting-project-Ideas)
 
 [[↑] Back to top](#table-of-contents)
 
@@ -786,6 +787,12 @@ Check [mlm/blog](http://machinelearningmastery.com/text-generation-lstm-recurren
 * **De-anonymization**
   - Can you classify the text of an e-mail message to decide who sent it?
   - Dataset: [150,000 Enron emails](https://www.cs.cmu.edu/~./enron/)
+
+## Forecasting Project Ideas
+
+- **Univariate Time Series Forecasting**
+  - How much will it rain this year?
+  - Dataset: [45 years of rainfall data](http://research.jisao.washington.edu/data_sets/widmann/)
 
 ## Some of the Best Kaggle Competitions for Beginners
 

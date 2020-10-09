@@ -724,3 +724,8 @@ Some of papers thought to be influential in getting deep learning ecosystem. I f
   - Dataset: [CovidClinicalData](https://covidclinicaldata.org/)
 
 If you haven't already, checkout [Kaggle's Covid19 Section](https://www.kaggle.com/covid19) as well. It has datasets and ideas both.
+
+- **Autonomous Tagging of StackOverflow Questions**
+
+  - Make a multi-label classification system that automatically assigns tags for questions posted on a forum such as StackOverflow or Quora.
+  - Dataset: [StackLite](https://www.kaggle.com/stackoverflow/stacklite) or [10% sample](https://www.kaggle.com/stackoverflow/stacksample)

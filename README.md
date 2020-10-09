@@ -620,3 +620,6 @@ Some of papers thought to be influential in getting deep learning ecosystem. I f
 - [Saddle Points and Non-convexity of Neural Networks](https://arxiv.org/pdf/1406.2572.pdf)
 - [Overcoming Catastrophic Forgetting in NNs](https://arxiv.org/pdf/1612.00796.pdf)
 - [Quasi-Recurrent Neural Networks](https://arxiv.org/pdf/1611.01576.pdf)
+- [Escaping Saddle Points Efficiently](https://arxiv.org/pdf/1703.00887.pdf)
+- [Progressive Growing of GANs](http://research.nvidia.com/sites/default/files/pubs/2017-10_Progressive-Growing-of//karras2017gan-paper.pdf)
+- [Attention is All You Need](https://arxiv.org/pdf/1706.03762.pdf)

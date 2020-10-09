@@ -704,3 +704,5 @@ Some of papers thought to be influential in getting deep learning ecosystem. I f
 - [A curated list of resources dedicated to Natural Language Processing (NLP)](https://github.com/keon/awesome-nlp)
 - [A curated list of resources for NLP (Natural Language Processing) for Chinese](https://github.com/crownpku/awesome-chinese-nlp#corpus-%E4%B8%AD%E6%96%87%E8%AF%AD%E6%96%99)
 - [Another curated list of deep learning resources](https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources)
+- [A list of artificial intelligence tools you can use today](https://hackernoon.com/a-list-of-artificial-intelligence-tools-you-can-use-today-for-personal-use-1-3-7f1b60b6c94f)
+- [A list of deep learning implementations in biology](https://github.com/hussius/deeplearning-biology)

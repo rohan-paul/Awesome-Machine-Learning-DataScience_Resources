@@ -783,3 +783,5 @@ If you haven't already, checkout [Kaggle's Covid19 Section](https://www.kaggle.c
 - Real or Not? NLP with Disaster Tweets (Ongoing): https://www.kaggle.com/c/nlp-getting-started
 - Word2Vec for movie reviews (Late Submission): https://www.kaggle.com/c/word2vec-nlp-tutorial
 - Random Acts of Pizza (Late Submission): https://www.kaggle.com/c/random-acts-of-pizza
+- Sentiment Analysis movies review (Late Submission): https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews
+- Quora questions classification (Late Submission): https://www.kaggle.com/c/quora-insincere-questions-classification

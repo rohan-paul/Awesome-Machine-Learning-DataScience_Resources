@@ -753,3 +753,9 @@ If you haven't already, checkout [Kaggle's Covid19 Section](https://www.kaggle.c
 - **Fight online abuse**
   - Can you confidently and accurately tell whether a particular comment is abusive?
   - Dataset: [Toxic comments on Kaggle](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge)
+
+## Some of the Best Kaggle Competitions for Beginners
+
+- Titanic (Can't miss it :) ) : https://www.kaggle.com/c/titanic
+- Forest Cover Type Prediction (Late Submission): https://www.kaggle.com/c/forest-cover-type-prediction
+- Don't Overfit 2 (Late Submission): https://www.kaggle.com/c/dont-overfit-ii

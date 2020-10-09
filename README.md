@@ -31,7 +31,8 @@
 16. [K Nearest Neighbors Tutorials](#k-nearest-neighbors-tutorials)
 17. [Best Courses](#best-courses)
 18. [Most Important Deep Learning Papers](#most-important-deep-learning-papers)
-19. [Deep Learning Resources](#deep-learning-resources)
+19. [Great Deep Learning Paper Year-wise](#great-deep-learning-paper-year-wise)
+20. [Deep Learning Resources](#deep-learning-resources)
 
 [[↑] Back to top](#table-of-contents)
 
@@ -656,6 +657,14 @@ Some of papers thought to be influential in getting deep learning ecosystem. I f
 - [Hidden Technical Debt in ML Systems](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf)
 - [MobileNets](https://arxiv.org/pdf/1704.04861.pdf)
 - [Learning from Imbalanced Data](http://www.ele.uri.edu/faculty/he/PDFfiles/ImbalancedLearning.pdf)
+
+## Great Deep Learning Paper Year-wise
+
+- [2020 year](papers/2020/dl.md)
+  - [deep learning](papers/2020/dl.md)
+  - [deep reinforcement learning](papers/2020/rl.md)
+  - [natural language process](papers/2020/nlp.md)
+  - [computer vision](papers/2020/cv.md)
 
 ## Deep Learning Resources
 

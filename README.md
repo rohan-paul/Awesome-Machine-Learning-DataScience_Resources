@@ -765,6 +765,11 @@ If you haven't already, checkout [Kaggle's Covid19 Section](https://www.kaggle.c
   - Reference: [Chat-bot architecture](https://github.com/aryanc55/TS3000_TheChatBOT)
   - Dataset: [Reddit Dataset](http://files.pushshift.io/reddit/comments/)
 
+- **Automatic text summarization**
+  - Can you create a summary with the major points of the original document?
+  - Abstractive (write your own summary) and Extractive (select pieces of text from original) are two popular approaches
+  - Dataset: [CNN and DailyMail News Pieces](http://cs.nyu.edu/~kcho/DMQA/) by Google DeepMind
+
 ## Some of the Best Kaggle Competitions for Beginners
 
 **Classification :**

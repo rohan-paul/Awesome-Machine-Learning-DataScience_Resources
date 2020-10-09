@@ -626,3 +626,6 @@ Some of papers thought to be influential in getting deep learning ecosystem. I f
 - [Dynamic Routing Between Capsules](https://arxiv.org/pdf/1710.09829.pdf)
 - [Unsupervised Machine Translation with Monolingual Corpora](https://arxiv.org/pdf/1711.00043.pdf)
 - [Population Based Training of NN's](https://arxiv.org/pdf/1711.09846.pdf)
+- [Learned Index Structures](https://arxiv.org/pdf/1712.01208v1.pdf)
+- [Visualizing Loss Landscapes](https://arxiv.org/pdf/1712.09913v1.pdf)
+- [DenseNet](https://arxiv.org/pdf/1608.06993.pdf)

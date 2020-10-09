@@ -592,3 +592,7 @@ Some of papers thought to be influential in getting deep learning ecosystem. I f
 - [Memory Networks](https://arxiv.org/pdf/1410.3916v11.pdf)
 - [Mixture of Experts](https://arxiv.org/pdf/1701.06538.pdf)
 - [Neural Turing Machines](https://arxiv.org/pdf/1410.5401.pdf)
+- [Alpha Go](https://storage.googleapis.com/deepmind-media/alphago/AlphaGoNaturePaper.pdf)
+- [Atari DQN](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
+- [Word2Vec](https://arxiv.org/pdf/1310.4546.pdf)
+- [GloVe](https://nlp.stanford.edu/pubs/glove.pdf)

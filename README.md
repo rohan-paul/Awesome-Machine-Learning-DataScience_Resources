@@ -602,3 +602,6 @@ Some of papers thought to be influential in getting deep learning ecosystem. I f
 - [Densely Connected CNNs](https://arxiv.org/pdf/1608.06993v1.pdf)
 - [EBGAN](https://arxiv.org/pdf/1609.03126v1.pdf)
 - [Wasserstein GAN](https://arxiv.org/pdf/1701.07875.pdf)
+- [Style Transfer](https://arxiv.org/pdf/1603.08155v1.pdf)
+- [Pixel RNN](https://arxiv.org/pdf/1601.06759v2.pdf)
+- [Dynamic Coattention Networks](https://arxiv.org/pdf/1611.01604v2.pdf)

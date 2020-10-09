@@ -888,3 +888,5 @@ After data exploration, the first thing to do is to use those insights to prepar
 - Fast inplace **[shuffle for augmentation](https://www.kaggle.com/jiweiliu/fast-inplace-shuffle-for-augmentation)**.
 - Finding [synthetic samples in the dataset](https://www.kaggle.com/yag320/list-of-fake-samples-and-public-private-lb-split).
 - [Signal denoising](https://www.kaggle.com/jackvial/dwt-signal-denoising) used in signal processing competitions.
+- Finding [patterns of missing data](https://www.kaggle.com/jpmiller/patterns-of-missing-data).
+- Methods to handle [missing data](https://towardsdatascience.com/6-different-ways-to-compensate-for-missing-values-data-imputation-with-examples-6022d9ca0779).

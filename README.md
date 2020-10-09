@@ -60,6 +60,7 @@
 - [Forecasting Project Ideas](#forecasting-project-ideas)
 - [Recommendation systems Project Ideas](#recommendation-systems-project-ideas)
 - [Some of the Best Kaggle Competitions for Beginners](#some-of-the-best-kaggle-competitions-for-beginners)
+- [Kaggle Strategies and skills](#kaggle-strategies-and-skills)
 
 [[↑] Back to top](#table-of-contents)
 
@@ -875,3 +876,11 @@ Check [mlm/blog](http://machinelearningmastery.com/text-generation-lstm-recurren
 - Random Acts of Pizza (Late Submission): https://www.kaggle.com/c/random-acts-of-pizza
 - Sentiment Analysis movies review (Late Submission): https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews
 - Quora questions classification (Late Submission): https://www.kaggle.com/c/quora-insincere-questions-classification
+
+## Kaggle Strategies and skills
+
+**Data preparation**
+
+After data exploration, the first thing to do is to use those insights to prepare the data. To tackle issues like class imbalance, encoding categorical data, etc. Let’s see the methods used to do it.
+
+- [Methods to tackle class imbalance](https://www.kaggle.com/shahules/tackling-class-imbalance).

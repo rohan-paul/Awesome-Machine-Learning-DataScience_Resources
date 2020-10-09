@@ -27,6 +27,7 @@
 13. [Linear Regression](#linear-regression)
 
 14. [Logistic Regression](#logistic-regression)
+15. [K Nearest Neighbors Tutorials](#k-nearest-neighbors-tutorials)
 
 [[↑] Back to top](#table-of-contents)
 

@@ -751,8 +751,14 @@ If you haven't already, checkout [Kaggle's Covid19 Section](https://www.kaggle.c
   - Dataset: [Quora question pairs](https://www.kaggle.com/c/quora-question-pairs/data) with similar questions marked
 
 - **Fight online abuse**
+
   - Can you confidently and accurately tell whether a particular comment is abusive?
   - Dataset: [Toxic comments on Kaggle](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge)
+
+- **Open Domain question answering**
+  - Can you build a bot which answers questions according to the student's age or her curriculum?
+  - [Facebook's FAIR](https://github.com/facebookresearch/DrQA) is built in a similar way for Wikipedia.
+  - Dataset: [NCERT books](http://ncert.nic.in/ebooks.html) for K-12/school students in India, [NarrativeQA by Google DeepMind](https://github.com/deepmind/narrativeqa) and [SQuAD by Stanford](https://rajpurkar.github.io/SQuAD-explorer/)
 
 ## Some of the Best Kaggle Competitions for Beginners
 

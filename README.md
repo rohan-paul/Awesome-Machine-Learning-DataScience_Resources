@@ -675,3 +675,4 @@ Some of papers thought to be influential in getting deep learning ecosystem. I f
 
 - [Berkeley][cs294: deep reinforcement learning](http://rll.berkeley.edu/deeprlcourse/)
 - [Berkeley][stat212b：topics course on deep learning](http://joanbruna.github.io/stat212b/)
+- [CUHK][eleg 5040: advanced topics in signal processing(introduction to deep learning)](https://piazza.com/cuhk.edu.hk/spring2015/eleg5040/home)

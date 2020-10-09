@@ -664,7 +664,7 @@ Some of papers thought to be influential in getting deep learning ecosystem. I f
   - [deep learning](papers/2020/dl.md)
   - [deep reinforcement learning](papers/2020/rl.md)
   - [natural language process](papers/2020/nlp.md)
-  - [computer vision](papers/2020/cv.md)
+  - [computer vision](#papers/2020/cv.md)
 
 ## Deep Learning Resources
 

@@ -696,3 +696,5 @@ Some of papers thought to be influential in getting deep learning ecosystem. I f
 - [15 AI and Machine Learning Events](http://botunity.co/14-ai-and-machine-learning-events/)
 - [188 examples of artificial intelligence in action](https://poo.ai/)
 - [A curated list of automated machine learning papers, articles, tutorials, slides and projects](https://github.com/hibayesian/awesome-automl-papers)
+- - [A curated list of awesome Machine Learning frameworks, libraries and software.](https://github.com/josephmisiti/awesome-machine-learning)
+- [A curated list of awesome places to learn and/or practice algorithms.](https://github.com/tayllan/awesome-algorithms)

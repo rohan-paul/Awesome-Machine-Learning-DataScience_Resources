@@ -718,3 +718,9 @@ Some of papers thought to be influential in getting deep learning ecosystem. I f
 
   - Classify Bing Queries as either specific (e.g. about a specific location) or generic. You might have to figure out a more exact definition of specific or generic though
   - Dataset: [BingCoronavirusQuerySet](https://github.com/microsoft/BingCoronavirusQuerySet)
+
+- **Covid Clinical Data**
+  - Rank and sort high risk patients using clinical data. Pick an interpretable approach if you can.
+  - Dataset: [CovidClinicalData](https://covidclinicaldata.org/)
+
+If you haven't already, checkout [Kaggle's Covid19 Section](https://www.kaggle.com/covid19) as well. It has datasets and ideas both.

@@ -777,6 +777,12 @@ If you haven't already, checkout [Kaggle's Covid19 Section](https://www.kaggle.c
   - Narendra Modi bot saying "_doston_"? Start by scrapping off his _Hindi_ speeches from his [personal website](http://www.narendramodi.in)
   - Example Dataset: [English Transcript of Modi speeches](https://github.com/mgupta1410/pm_modi_speeches_repo)
 
+Check [mlm/blog](http://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/) for some hints.
+
+- **Sentiment Analysis**
+  - Do Twitter Sentiment Analysis on tweets sorted by geography and timestamp.
+  - Dataset: [Tweets sentiment tagged by humans](https://inclass.kaggle.com/c/si650winter11/data)
+
 ## Some of the Best Kaggle Competitions for Beginners
 
 **Classification :**

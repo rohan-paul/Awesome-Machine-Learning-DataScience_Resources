@@ -28,6 +28,8 @@
 
 14. [Logistic Regression](#logistic-regression)
 15. [K Nearest Neighbors Tutorials](#k-nearest-neighbors-tutorials)
+16. [Best Courses](#best-courses)
+17. [Most Important Deep Learning Papers](#most-important-deep-learning-papers)
 
 [[↑] Back to top](#table-of-contents)
 
@@ -570,3 +572,13 @@
 - [Spotify – Lex Fridman Podcast | Artificial Intelligence (AI) | Podcast on Spotify](https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL)
 - [AI Today Podcast: The 2020 State of AI – Interview with Wilson Pang, CTO at Appen · AI Today Podcast: Artificial Intelligence Insights, Experts, and Opinion](https://open.spotify.com/show/4z2M4S9e0K6yk3KB9XrO7h)
 - [Spotify – AI in Business | Podcast on Spotify](https://open.spotify.com/show/4gD9xiYU9iC24vnjUx1PTg)
+
+## Most Important Deep Learning Papers
+
+Some of papers thought to be influential in getting deep learning ecosystem. I further added a couple important general ML papers to these list.
+
+- [AlexNet](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
+- [GoogLeNet](https://arxiv.org/pdf/1409.4842v1.pdf)
+- [VGGNet](https://arxiv.org/pdf/1409.1556v6.pdf)
+- [ZFNet](https://arxiv.org/pdf/1311.2901v3.pdf)
+- [ResNet](https://arxiv.org/pdf/1512.03385.pdf)

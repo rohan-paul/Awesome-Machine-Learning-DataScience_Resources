@@ -706,3 +706,5 @@ Some of papers thought to be influential in getting deep learning ecosystem. I f
 - [Another curated list of deep learning resources](https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources)
 - [A list of artificial intelligence tools you can use today](https://hackernoon.com/a-list-of-artificial-intelligence-tools-you-can-use-today-for-personal-use-1-3-7f1b60b6c94f)
 - [A list of deep learning implementations in biology](https://github.com/hussius/deeplearning-biology)
+- [Awesome-2vec](https://github.com/MaxwellRebo/awesome-2vec)
+- [Awesome Action Recognition](https://github.com/jinwchoi/awesome-action-recognition)

@@ -1,66 +1,37 @@
 ## Table of Contents
 
 1. [If you are new to Data Science](#if-you-are-new-to-data-science)
-
-2. [Natural Language Processing](#natural-language-processing-nlp)
-
+2. [Natural Language Processing (NLP)](#natural-language-processing-nlp)
 3. [Statistics](#statistics)
-
 4. [Blogs and other Community based resources](#blogs-and-other-community-based-resources)
-
 5. [ML Math](#ml-math)
-
 6. [Inspirational Stories of people breaking into Machine Learning and Data-Science](#inspirational-stories-of-people-breaking-into-machine-learning-and-data-science)
-
-7. [Genaral Datasets](#genaral-datasets)
-
-8. [Finance related Datasets](#finance)
-
+7. [General Datasets](#general-datasets)
+8. [Finance Related Datasets](#finance-related-datasets)
 9. [Super Large Kaggle Datasets](#super-large-kaggle-datasets)
 10. [Numpy](#numpy)
-
-11. [Machine Learning & Deep Learning Tutorials](#machine-learning--deep-learning-tutorials)
-
-12. [Interview Resources](#interview-resources)
-
-13. [Kaggle Competitions WriteUp](#kaggle-competitions-writeUp)
-
-14. [Linear Regression](#linear-regression)
-
-- [Table of Contents](#table-of-contents)
-- [If you are new to Data Science](#if-you-are-new-to-data-science)
-- [Natural Language Processing (NLP)](#natural-language-processing-nlp)
-- [Statistics](#statistics)
-- [Blogs and other Community based resources](#blogs-and-other-community-based-resources)
-- [ML Math](#ml-math)
-- [Inspirational Stories of people breaking into Machine Learning and Data-Science](#inspirational-stories-of-people-breaking-into-machine-learning-and-data-science)
-- [Genaral Datasets](#genaral-datasets)
-- [Finance](#finance)
-- [Super Large Kaggle Datasets](#super-large-kaggle-datasets)
-- [Numpy](#numpy)
-- [TensorFlow](#tensorflow)
-- [Machine Learning & Deep Learning Tutorials](#machine-learning--deep-learning-tutorials)
-- [Interview Resources](#interview-resources)
-- [Genetic Algorithms](#genetic-algorithms)
-- [Kaggle Competitions WriteUp](#kaggle-competitions-writeup)
-- [[List of Most Starred Github Projects related to Deep Learning0(#list-of-most-starred-github-projects-related-to-deep-learning)](#list-of-most-starred-github-projects-related-to-deep-learning0list-of-most-starred-github-projects-related-to-deep-learning)
-- [Linear Regression Tutorials](#linear-regression-tutorials)
-- [Logistic Regression Tutorials](#logistic-regression-tutorials)
-- [K Nearest Neighbors Tutorials](#k-nearest-neighbors-tutorials)
-- [Best Courses](#best-courses)
-- [Top Machine Learning Podcasts](#top-machine-learning-podcasts)
-- [Most Important Deep Learning Papers](#most-important-deep-learning-papers)
-- [Great Deep Learning Paper Year-wise](#great-deep-learning-paper-year-wise)
-- [Deep Learning Resources](#deep-learning-resources)
-- [Best Deep Learning Courses](#best-deep-learning-courses)
-- [Awesome Deep Learning Projects](#awesome-deep-learning-projects)
-- [Project Ideas for deep learning and general machine learning](#project-ideas-for-deep-learning-and-general-machine-learning)
-    - [Covid19](#covid19)
-- [Natural Language Project Ideas](#natural-language-project-ideas)
-- [Forecasting Project Ideas](#forecasting-project-ideas)
-- [Recommendation systems Project Ideas](#recommendation-systems-project-ideas)
-- [Some of the Best Kaggle Competitions for Beginners](#some-of-the-best-kaggle-competitions-for-beginners)
-- [Kaggle Strategies and skills](#kaggle-strategies-and-skills)
+11. [TensorFlow](#tensorflow)
+12. [Machine Learning & Deep Learning Tutorials](#machine-learning--deep-learning-tutorials)
+13. [Interview-Related-Links](#interview-related-links)
+14. [Genetic Algorithms](#genetic-algorithms)
+15. [Kaggle Competitions WriteUp](#kaggle-competitions-writeup)
+16. [List of Most Starred Github Projects related to Deep Learning](#list-of-most-starred-github-projects-related-to-deep-learning)
+17. [Linear Regression Tutorials](#linear-regression-tutorials)
+18. [Logistic Regression Tutorials](#logistic-regression-tutorials)
+19. [K Nearest Neighbors Tutorials](#k-nearest-neighbors-tutorials)
+20. [Best Courses](#best-courses)
+21. [Top Machine Learning Podcasts](#top-machine-learning-podcasts)
+22. [Most Important Deep Learning Papers](#most-important-deep-learning-papers)
+23. [Great Deep Learning Paper Year-wise](#great-deep-learning-paper-year-wise)
+24. [Deep Learning Resources](#deep-learning-resources)
+25. [Best Deep Learning Courses](#best-deep-learning-courses)
+26. [Awesome Deep Learning Projects](#awesome-deep-learning-projects)
+27. [Project Ideas for deep learning and general machine learning](#project-ideas-for-deep-learning-and-general-machine-learning)
+28. [Natural Language Project Ideas](#natural-language-project-ideas)
+29. [Forecasting Project Ideas](#forecasting-project-ideas)
+30. [Recommendation systems Project Ideas](#recommendation-systems-project-ideas)
+31. [Some of the Best Kaggle Competitions for Beginners](#some-of-the-best-kaggle-competitions-for-beginners)
+32. [Kaggle Strategies and skills](#kaggle-strategies-and-skills)
 
 [[↑] Back to top](#table-of-contents)
 
@@ -207,7 +178,7 @@
 
 [[↑] Back to top](#table-of-contents)
 
-## Genaral Datasets
+## General Datasets
 
 1.  [MNIST](http://yann.lecun.com/exdb/mnist/) Handwritten digits
 2.  [Google House Numbers](http://ufldl.stanford.edu/housenumbers/) from street view
@@ -359,7 +330,7 @@
 
 [[↑] Back to top](#table-of-contents)
 
-## Finance
+## Finance Related Datasets
 
 - [BIS Statistics - BIS statistics, compiled in cooperation with central](https://www.bis.org/statistics/full_data_sets.htm)
 
@@ -437,7 +408,7 @@ IPython Notebook(s) demonstrating NumPy functionality.
 
 [[↑] Back to top](#table-of-contents)
 
-## Interview Resources
+## Interview-Related-Links
 
 - [41 Essential Machine Learning Interview Questions (with answers)](https://www.springboard.com/blog/machine-learning-interview-questions/)
 
@@ -485,7 +456,7 @@ IPython Notebook(s) demonstrating NumPy functionality.
 
 [[↑] Back to top](#table-of-contents)
 
-## [List of Most Starred Github Projects related to Deep Learning0(#list-of-most-starred-github-projects-related-to-deep-learning)
+## List of Most Starred Github Projects related to Deep Learning
 
 | Project Name                                                                    | Stars | Description                                                                                                                                                                           |
 | ------------------------------------------------------------------------------- | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -698,6 +669,9 @@ Some of papers thought to be influential in getting deep learning ecosystem. I f
 
 - [deep-learning-glossary/](http://www.wildml.com/deep-learning-glossary/)
 - [deep-learning-roadmap](https://github.com/instillai/deep-learning-roadmap)
+- [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
+- [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
+- [Udacity's Deep Learning Nanodegree Foundation program](https://github.com/udacity/deep-learning)
 
 ## Best Deep Learning Courses
 
@@ -737,7 +711,7 @@ Some of papers thought to be influential in getting deep learning ecosystem. I f
 
 ## Project Ideas for deep learning and general machine learning
 
-#### Covid19
+Covid19
 
 - **Bing Coronavirus**
 
@@ -760,7 +734,7 @@ If you haven't already, checkout [Kaggle's Covid19 Section](https://www.kaggle.c
   - Identify keywords from millions of questions
   - Dataset: [StackOverflow question samples by Facebook](https://www.kaggle.com/c/facebook-recruiting-iii-keyword-extraction/data)
 
-* **Topic identification**
+- **Topic identification**
   - Multi-label classification of printed media articles to topics
   - Dataset: [Greek Media monitoring multi-label classification](https://www.kaggle.com/c/wise-2014/data)
 
@@ -892,3 +866,15 @@ After data exploration, the first thing to do is to use those insights to prepar
 - Methods to handle [missing data](https://towardsdatascience.com/6-different-ways-to-compensate-for-missing-values-data-imputation-with-examples-6022d9ca0779).
 - An overview of various [encoding techniques for categorical data](https://www.kaggle.com/shahules/an-overview-of-encoding-techniques).
 - Building [model to predict missing values](https://www.kaggle.com/c/home-credit-default-risk/discussion/64598).
+- Random [shuffling of data](https://www.kaggle.com/brandenkmurray/randomly-shuffled-data-also-works) to create new synthetic training set.
+
+**Dealing with larger datasets**
+
+- Faster [data loading with pandas](https://www.kaggle.com/c/home-credit-default-risk/discussion/59575).
+- Data compression techniques to [reduce the size of data by 70%](https://www.kaggle.com/nickycan/compress-70-of-dataset).
+- Optimize the memory by [reducing the size of some attributes](https://www.kaggle.com/shrutimechlearn/large-data-loading-trick-with-ms-malware-data).
+- Use open-source libraries such as [Dask to read and manipulate the data](https://www.kaggle.com/yuliagm/how-to-work-with-big-datasets-on-16g-ram-dask), it performs parallel computing and saves up memory space.
+- Use [cudf](https://github.com/rapidsai/cudf).
+- Convert data to [parquet](https://arrow.apache.org/docs/python/parquet.html) format.
+- Converting data to [feather](https://medium.com/@snehotosh.banerjee/feather-a-fast-on-disk-format-for-r-and-python-data-frames-de33d0516b03) format.
+- Reducing memory usage for [optimizing RAM](https://www.kaggle.com/mjbahmani/reducing-memory-size-for-ieee).

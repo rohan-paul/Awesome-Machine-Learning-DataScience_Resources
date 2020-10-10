@@ -870,6 +870,8 @@ After data exploration, the first thing to do is to use those insights to prepar
 
 **Dealing with larger datasets**
 
+One issue you might face in any machine learning competition is the size of your data set. If the size of your data is large, that is 3GB + for kaggle kernels and more basic laptops you could find it difficult to load and process with limited resources. Here is the link to some of the articles and kernels that may be very useful in such situations.
+
 - Faster [data loading with pandas](https://www.kaggle.com/c/home-credit-default-risk/discussion/59575).
 - Data compression techniques to [reduce the size of data by 70%](https://www.kaggle.com/nickycan/compress-70-of-dataset).
 - Optimize the memory by [reducing the size of some attributes](https://www.kaggle.com/shrutimechlearn/large-data-loading-trick-with-ms-malware-data).
@@ -878,3 +880,38 @@ After data exploration, the first thing to do is to use those insights to prepar
 - Convert data to [parquet](https://arrow.apache.org/docs/python/parquet.html) format.
 - Converting data to [feather](https://medium.com/@snehotosh.banerjee/feather-a-fast-on-disk-format-for-r-and-python-data-frames-de33d0516b03) format.
 - Reducing memory usage for [optimizing RAM](https://www.kaggle.com/mjbahmani/reducing-memory-size-for-ieee).
+
+**Data exploration**
+
+Data exploration always helps to better understand the data and gain insights from it. Before starting to develop machine learning models, top competitors always read/do a lot of exploratory data analysis for the data. This helps in feature engineering and cleaning of the data.
+
+- EDA for microsoft [malware detection](https://www.kaggle.com/youhanlee/my-eda-i-want-to-see-all).
+- Time Series [EDA for malware detection](https://www.kaggle.com/cdeotte/time-split-validation-malware-0-68).
+- Complete [EDA for home credit loan prediction](https://www.kaggle.com/codename007/home-credit-complete-eda-feature-importance).
+- Complete [EDA for Santader prediction](https://www.kaggle.com/gpreda/santander-eda-and-prediction).
+- EDA for [VSB Power Line Fault Detection](https://www.kaggle.com/go1dfish/basic-eda).
+
+**Feature engineering**
+
+Next, you can check the most popular feature and feature engineering techniques used in these top kaggle competitions.
+
+- Target [encoding cross validation](https://medium.com/@pouryaayria/k-fold-target-encoding-dfe9a594874b/) for better encoding.
+- Entity embedding to [handle categories](https://www.kaggle.com/abhishek/entity-embeddings-to-handle-categories).
+- Encoding [cyclic features for deep learning](https://www.kaggle.com/avanwyk/encoding-cyclical-features-for-deep-learning).
+- Manual [feature engineering methods](https://www.kaggle.com/willkoehrsen/introduction-to-manual-feature-engineering).
+- Automated feature engineering techniques [using featuretools](https://www.kaggle.com/willkoehrsen/automated-feature-engineering-basics).
+- Top hard crafted features used in [microsoft malware detection](https://www.kaggle.com/sanderf/7th-place-solution-microsoft-malware-prediction).
+- Denoising NN for [feature extraction.](https://towardsdatascience.com/applied-deep-learning-part-3-autoencoders-1c083af4d798)
+- Feature engineering using [RAPIDS framework.](https://www.kaggle.com/cdeotte/rapids-feature-engineering-fraud-0-96/)
+- Things to remember while [processing features using LGBM.](https://www.kaggle.com/c/ieee-fraud-detection/discussion/108575)
+- Lag features and moving averages.
+- [Principal component analysis](https://medium.com/machine-learning-researcher/dimensionality-reduction-pca-and-lda-6be91734f567) for dimensionality reduction.
+- LDA for [dimensionality reduction](https://medium.com/machine-learning-researcher/dimensionality-reduction-pca-and-lda-6be91734f567).
+- Best hand crafted LGBM features for [microsoft malware detection](https://www.kaggle.com/c/microsoft-malware-prediction/discussion/85157).
+- Generating [frequency features](https://www.kaggle.com/philippsinger/frequency-features-without-test-data-information).
+- Dropping variables with [different train and test distribution.](https://www.kaggle.com/bogorodvo/lightgbm-baseline-model-using-sparse-matrix)
+- [Aggregate time series features](https://www.kaggle.com/c/home-credit-default-risk/discussion/64593) for home credit competition.
+- [Time Series](https://www.kaggle.com/c/home-credit-default-risk/discussion/64593) features used in home credit default risk.
+- Scale, Standardize and [normalize with sklearn.](https://towardsdatascience.com/scale-standardize-or-normalize-with-scikit-learn-6ccc7d176a02)
+- Handcrafted features for [Home default risk competition.](https://www.kaggle.com/c/home-credit-default-risk/discussion/57750)
+- Handcrafted features used in [Santander Transaction Prediction.](https://www.kaggle.com/c/santander-customer-transaction-prediction/discussion/89070)

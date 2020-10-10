@@ -915,3 +915,32 @@ Next, you can check the most popular feature and feature engineering techniques 
 - Scale, Standardize and [normalize with sklearn.](https://towardsdatascience.com/scale-standardize-or-normalize-with-scikit-learn-6ccc7d176a02)
 - Handcrafted features for [Home default risk competition.](https://www.kaggle.com/c/home-credit-default-risk/discussion/57750)
 - Handcrafted features used in [Santander Transaction Prediction.](https://www.kaggle.com/c/santander-customer-transaction-prediction/discussion/89070)
+
+**Feature selection**
+
+After generating many features from your data, you need to decide which all features to use in your model to get the maximum performance out of your model. This step also includes identifying the impact each feature is having on your model. Let’s see some of the most popular feature selection methods.
+
+- Six ways to do [features selection using sklearn.](https://www.kaggle.com/sz8416/6-ways-for-feature-selection)
+- [Permutation feature importance.](https://www.kaggle.com/c/ieee-fraud-detection/discussion/107877#latest-635386)
+- [Adversarial feature validation.](https://www.kaggle.com/tunguz/adversarial-ieee/)
+- Feature selection using [null importances.](https://www.kaggle.com/ogrellier/feature-selection-with-null-importances)
+- [Tree explainer using SHAP.](https://github.com/slundberg/shap)
+- [DeepNN explainer using SHAP.](https://github.com/slundberg/shap)
+
+**Modeling**
+
+After handcrafting and selecting your features, you should choose the right Machine learning algorithm to make your prediction. These are the collection of some of the most used ML models in structured data classification challenges.
+
+- [Random forest classifier.](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
+- [XGBoost : Gradient boosted decision trees.](https://xgboost.readthedocs.io/en/latest/)
+- [LightGBM for distributed and faster training.](https://lightgbm.readthedocs.io/en/latest/)
+- [CatBoost to handle categorical data.](https://catboost.ai/docs/concepts/about.html)
+- [Naive bayes classifier.](https://www.kaggle.com/cdeotte/modified-naive-bayes-santander-0-899)
+- [Gaussian naive bayes model.](https://www.kaggle.com/blackblitz/gaussian-naive-bayes)
+- [LGBM + CNN model used in 3rd place solution of Santander Customer Transaction Prediction](https://www.kaggle.com/nawidsayed/lightgbm-and-cnn-3rd-place-solution/notebook)
+- [Knowledge distillation in Neural Network.](https://www.kaggle.com/mathormad/knowledge-distillation-with-nn-rankgauss)
+- [Follow the regularized leader method.](https://medium.com/@dhirajreddy13/factorization-machines-and-follow-the-regression-leader-for-dummies-7657652dce69)
+- Comparison between [LGB boosting methods ](https://www.kaggle.com/c/home-credit-default-risk/discussion/60921)(goss, gbdt and dart).
+- [NN + focal loss experiment.](https://www.kaggle.com/abazdyrev/keras-nn-focal-loss-experiments)
+- [Keras NN with timeseries splitter.](https://www.kaggle.com/ryches/keras-nn-starter-w-time-series-split)
+- [5th place NN architecture with code for Santander Transaction prediction.](https://www.kaggle.com/c/santander-customer-transaction-prediction/discussion/88929)

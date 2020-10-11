@@ -399,6 +399,7 @@ IPython Notebook(s) demonstrating NumPy functionality.
 - [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples)
 - [TensorFlow-Tutorials](https://github.com/nlintz/TensorFlow-Tutorials)
 - [Awesome Tensorflow](https://github.com/jtoy/awesome-tensorflow)
+- [JAX to TensorFlow converter](https://github.com/google/jax/tree/master/jax/experimental/jax2tf)
 
 [[↑] Back to top](#table-of-contents)
 

@@ -160,7 +160,7 @@
 
 - [AWS Math for Machine Learning](https://www.aws.training/Details/eLearning?id=26597)
 
-- [Essential Math for Machine Learning - Python Edition](https://www.edx.org/course/essential-math-for-machine-learning-python-editi-2)
+- [Essential Math for Machine Learning - Python Edition](https://www.lynda.com/Python-tutorials/Essential-Math-Machine-Learning-Python-Edition/2815110-2.html)
 
 - [Computational Linear Algebra](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md)
 

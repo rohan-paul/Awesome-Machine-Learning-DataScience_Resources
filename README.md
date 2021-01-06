@@ -712,7 +712,7 @@ Some of papers thought to be influential in getting deep learning ecosystem. I f
 
 ## Project Ideas for deep learning and general machine learning
 
-Covid19
+- [List of great many projects with accomppanyting code](https://data-flair.training/blogs/python-project-traffic-signs-recognition/)
 
 - **Bing Coronavirus**
 

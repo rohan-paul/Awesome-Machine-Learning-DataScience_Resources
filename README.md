@@ -851,6 +851,7 @@ Check [mlm/blog](http://machinelearningmastery.com/text-generation-lstm-recurren
 - Random Acts of Pizza (Late Submission): https://www.kaggle.com/c/random-acts-of-pizza
 - Sentiment Analysis movies review (Late Submission): https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews
 - Quora questions classification (Late Submission): https://www.kaggle.com/c/quora-insincere-questions-classification
+- [Top Computer Vision Google Colab Notebooks](https://www.qblocks.cloud/creators/computer-vision-google-colab-notebooks)
 
 ## Kaggle Strategies and skills
 

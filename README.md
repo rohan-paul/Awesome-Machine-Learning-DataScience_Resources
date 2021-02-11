@@ -55,7 +55,8 @@
 
 ## Natural Language Processing (NLP)
 
-[Datasets](https://github.com/huggingface/datasets) is a lightweight and extensible library to easily share and access datasets and evaluation metrics for Natural Language Processing (NLP) and more.
+- [Datasets](https://github.com/huggingface/datasets) is a lightweight and extensible library to easily share and access datasets and evaluation metrics for Natural Language Processing (NLP) and more.
+- [The-NLP-Pandect-was created to help you find almost anything related to NLP that is available online.](https://github.com/ivan-bilan/The-NLP-Pandect)
 
 [[↑] Back to top](#table-of-contents)
 
